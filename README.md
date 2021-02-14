@@ -25,3 +25,7 @@ Alfredワークフローのサンプルを公開します
 
 1.[alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips/)
 
+1.[alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips/index.html)
+
+1.[alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips/#1.html)
+
