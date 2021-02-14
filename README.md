@@ -18,3 +18,7 @@ Alfredワークフローのサンプルを公開します
 また、Alfredの機能で実現してますが、キーワードが英語でも日本語でも”発火”します
 
 
+## Tips
+ワークフォロー作成時のもろもろです
+1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/Tips/1)
+
