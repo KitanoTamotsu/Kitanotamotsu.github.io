@@ -7,9 +7,9 @@ Alfredワークフローのサンプルを公開します
 -私が初心者なので、皆さんの参考になれば幸いです
 
 
-1.### [google suggest](https://github.com/KitanoTamotsu/googlesuggest)
+### 1.[google suggest](https://github.com/KitanoTamotsu/googlesuggest)
 ワークフローの練習作です。ソースコードはありません
 Githubの使い方も含めて練習用に作ってみました
 
-2.### google timeline
+### 2. google timeline
 
