@@ -5,10 +5,9 @@ Alfredワークフローのサンプルを公開します
 - 1リポジトリに1ワークフローを投稿します
 - それぞれのフォルダーのreadme.txtに、ポイントとなる開発メモを残します
 - 私が初心者なので、皆さんの参考になれば幸いです
-
+- トップページ（このページ）以外はGithubリポジトリでの公開とします。（手抜きです）
 
 ## Alfred Workflow Examples
-
 
 ### 1.[Google Suggest](https://github.com/KitanoTamotsu/googlesuggest)
 ワークフローの練習作です。ソースコードはありません。Githubの練習もかねて作ってみました。
@@ -22,3 +21,11 @@ Alfredワークフローのサンプルを公開します
 ワークフォロー作成時のもろもろです
 
 1.[alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
+
+
+## 環境
+
+2021年2月〜
+Macbook Air (M1,2020)
+OSX 11.1 (BigSur)
+Alfred4 & Powerpack
