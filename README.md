@@ -24,8 +24,4 @@ Alfredワークフローのサンプルを公開します
 
 
 ## 環境
-
-2021年2月〜
-Macbook Air (M1,2020)
-OSX 11.1 (BigSur)
-Alfred4 & Powerpack
+2021年2月〜　Macbook Air (M1,2020)　OSX 11.1 (BigSur)　Alfred4 & Powerpack
