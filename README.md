@@ -21,4 +21,4 @@ Alfredワークフローのサンプルを公開します
 ## Tips
 ワークフォロー作成時のもろもろです
 
-1.[alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1.html)
+1.[alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
