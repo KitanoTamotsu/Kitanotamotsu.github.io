@@ -8,8 +8,7 @@ Alfredワークフローのサンプルを公開します
 
 
 ### 1.[google suggest](https://github.com/KitanoTamotsu/googlesuggest)
-ワークフローの練習作です。ソースコードはありません
-Githubの使い方も含めて練習用に作ってみました
+ワークフローの練習作です。ソースコードはありません。Githubの使い方も含めて練習用に作ってみました。
 
-### 2. google timeline
-
+### 2.[google timeline](https://github.com/KitanoTamotsu/googlesuggest)
+キーワードとパラメータを受け取り、URLを開きます。URLのパラメータを設定する最もプリミティブなワークフローの例です。
