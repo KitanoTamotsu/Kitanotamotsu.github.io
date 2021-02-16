@@ -5,15 +5,15 @@ Alfredワークフローのサンプルを公開します
 - 1リポジトリに1ワークフローを投稿します
 - それぞれのフォルダーのreadme.txtに、ポイントとなる開発メモを残します
 - 私が初心者なので、皆さんの参考になれば幸いです
-- トップページ以外はGithubリポジトリでの公開とします。（手抜きです）
+- トップページ以外はGithubリポジトリでの公開とします（手抜きです）
 
 ## Alfred Workflow Examples
 
 ### 1.[Google Suggest](https://github.com/KitanoTamotsu/googlesuggest)
-ワークフローの練習作です。ソースコードはありません。Githubの練習もかねて作ってみました。
+ソースコードレス・ワークフロー。練習作です。Githubの練習もかねて作ってみました
 
 ### 2.[Google Timeline](https://github.com/KitanoTamotsu/googletimeline)
-キーワードとパラメータを受け取り、URLを開きます。URLのパラメータを設定する最もプリミティブなワークフローの例です。
+キーワードとパラメータを受け取り、URLを開きます。URLのパラメータを設定する最もプリミティブなワークフローの例です
 また、Alfredの機能で実現してますが、キーワードが英語でも日本語でも”発火”します
 
 
