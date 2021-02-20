@@ -22,6 +22,9 @@ Alfredワークフローのサンプルを公開します
 ### 4.[価格コム検索](https://github.com/KitanoTamotsu/kakaku.comKeywordSearch)
 価格コムをキーワード検索します。％エンコードを試してみました
 
+### 5.[電車ルート検索](https://github.com/KitanoTamotsu/norikae)
+ジョルダンの乗り換え案内を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています。
+
 
 ## Tips
 ワークフォロー作成時のもろもろです
