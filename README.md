@@ -17,7 +17,7 @@ Alfredワークフローのサンプルを公開します
 また、Alfredの機能で実現してますが、キーワードが英語でも日本語でも”発火”します
 
 ### 3.[Tripadvisor](https://github.com/KitanoTamotsu/tripadvisor)
-ソースコードレス・ワークフロー。option+TのHOTKEYを押すと、選択中の文字列でトリップアドバイザーを検索します
+ソースコードレス・ワークフロー。HOTKEYを押すと、選択中の文字列でトリップアドバイザーを検索します
 
 
 ## Tips
