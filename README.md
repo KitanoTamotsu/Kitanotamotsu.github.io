@@ -14,10 +14,13 @@ Alfredワークフローのサンプルを公開します
 
 ### 2.[Google Timeline](https://github.com/KitanoTamotsu/googletimeline)
 キーワードとパラメータを受け取り、URLを開きます。URLのパラメータを設定する最もプリミティブなワークフローの例です
-また、Alfredの機能で実現してますが、キーワードが英語でも日本語でも”発火”します
+また、Alfredの機能で実現してますが、キーワードが英語でも日本語でも”発火”します（バイリンガル起動）
 
 ### 3.[Tripadvisor](https://github.com/KitanoTamotsu/tripadvisor)
 ソースコードレス・ワークフロー。HOTKEYを押すと、選択中の文字列でトリップアドバイザーを検索します
+
+### 4.[価格コム検索](https://github.com/KitanoTamotsu/kakaku.comKeywordSearch)
+価格コムをキーワード検索します。％エンコードを試してみました
 
 
 ## Tips
