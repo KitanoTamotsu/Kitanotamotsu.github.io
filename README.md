@@ -33,6 +33,8 @@ Alfredワークフローのサンプルを公開します
  
  2.[ワークフロー用透過アイコンの作成方法](https://github.com/KitanoTamotsu/tips2/)
 
+ 3.[Google suggest ワークフローを解析してみる](https://github.com/KitanoTamotsu/tips3/)
+
 
 ## 環境
 2021年2月〜　Macbook Air (M1,2020)　OSX 11.1 (BigSur)　Alfred4 & Powerpack
