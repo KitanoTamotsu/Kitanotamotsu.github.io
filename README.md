@@ -25,6 +25,10 @@ Alfredワークフローのサンプルを公開します
 ### 5.[電車ルート検索](https://github.com/KitanoTamotsu/norikae)
 ジョルダンの乗り換え案内を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています。
 
+### 6.[Alfred JSON formatのテスト](https://github.com/KitanoTamotsu/testjson)
+Tips3でgoogle suggestを解析したらxmlでalfredのリターン用インターフェイスを作成しているようでした。
+現状ではJSONが推奨とのことで試してみまいた。といってもAlfredのサンプルを使っているだけです。
+
 
 ## Tips
 ワークフォロー作成時のもろもろです
