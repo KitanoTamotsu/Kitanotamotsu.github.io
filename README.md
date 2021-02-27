@@ -11,8 +11,7 @@
 ## Alfred Workflow Examples
 
 
-### <font color='green'> Lesson1.初めてのワークフロー</font>
-[Google Suggest](https://github.com/KitanoTamotsu/googlesuggest)<br>
+### <font color='green'> Lesson1.初めてのワークフロー</font>[Google Suggest](https://github.com/KitanoTamotsu/googlesuggest)
 ソースコードレス・ワークフロー。練習作です。Githubの練習もかねて作ってみました。
 
 
