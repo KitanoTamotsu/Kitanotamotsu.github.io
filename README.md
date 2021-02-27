@@ -11,45 +11,39 @@
 ## Alfred Workflow Examples
 
 
-### <font color='green'> Lesson1.初めてのワークフロー</font>[Google Suggest](https://github.com/KitanoTamotsu/googlesuggest)
+### <font color='green'>Lesson1.初めてのワークフロー</font>　[Google Suggest](https://github.com/KitanoTamotsu/googlesuggest)
 ソースコードレス・ワークフロー。練習作です。Githubの練習もかねて作ってみました。
 
 
 
-### Lesson2.入力パラメータを利用してURLを組み立てる
-[Google Timeline](https://github.com/KitanoTamotsu/googletimeline)<br>
+### <font color='green'>Lesson2.入力パラメータを利用してURLを組み立てる</font>　[Google Timeline](https://github.com/KitanoTamotsu/googletimeline)
 キーワードとパラメータを受け取り、URLを開きます。URLのパラメータを設定する最もプリミティブなワークフローの例です。
 また、Alfredの機能で実現してますが、キーワードが英語でも日本語でも”発火”します（バイリンガル起動）
 
 
 
-### Lesson3.選択中のテキストとHOTKEYで起動させる
-[Tripadvisor](https://github.com/KitanoTamotsu/tripadvisor)<br>
+### <font color='green'>Lesson3.選択中のテキストとHOTKEYで起動させる</font>　[Tripadvisor](https://github.com/KitanoTamotsu/tripadvisor)
 ソースコードレス・ワークフロー。HOTKEYを押すと、選択中の文字列でトリップアドバイザーを検索します。
 
 
 
-### Lesson4.シェルスクリプトでURLエンコードする
-[価格コム検索](https://github.com/KitanoTamotsu/kakaku.comKeywordSearch)<br>
+### <font color='green'>Lesson4.シェルスクリプトでURLエンコードする</font>　[価格コム検索](https://github.com/KitanoTamotsu/kakaku.comKeywordSearch)
 価格コムをキーワード検索します。％エンコードを試してみました。
 
 
 
-### Lesson5.複数のパラメータを利用する
-[電車ルート検索](https://github.com/KitanoTamotsu/norikae)<br>
+### <font color='green'>Lesson5.複数のパラメータを利用する</font>　[電車ルート検索](https://github.com/KitanoTamotsu/norikae)
 ジョルダンの乗り換え案内を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています。
 
 
 
-### Lesson6.Alfredの出力フォーマットを試してみる
-[Alfred JSON formatのテスト](https://github.com/KitanoTamotsu/testjson)<br>
+### <font color='green'>Lesson6.Alfredの出力フォーマットを試してみる</font>　[Alfred JSON formatのテスト](https://github.com/KitanoTamotsu/testjson)
 Tips3でgoogle suggestを解析したらxmlでalfredのリターン用インターフェイスを作成しているようでした。
 現状ではJSONが推奨とのことで試してみました.といってもAlfredのサンプルを使っているだけです。
 
 
 
-### Lesson7.MXLをパースする
-[Yahoo!みんなの意見RSS](https://github.com/KitanoTamotsu/yahoo)<br>
+### <font color='green'>Lesson7.MXLをパースする</font>　[Yahoo!みんなの意見RSS](https://github.com/KitanoTamotsu/yahoo)
 Lesson6でテストしたJSONフォーマットを利用して何かできないものかと考えていたらRSSに辿り着きました。
 AlfredのJSONフォーマット出力の利用、RSSファイル（XML)のパースと要素の抽出などを実装しています。
 
