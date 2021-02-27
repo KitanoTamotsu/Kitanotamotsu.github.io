@@ -11,9 +11,10 @@
 ## Alfred Workflow Examples
 
 
-### Lesson1.初めてのワークフロー
+<font color='green'>### Lesson1.初めてのワークフロー</font>
 [Google Suggest](https://github.com/KitanoTamotsu/googlesuggest)<br>
 ソースコードレス・ワークフロー。練習作です。Githubの練習もかねて作ってみました。
+
 
 
 ### Lesson2.入力パラメータを利用してURLを組み立てる
@@ -22,9 +23,11 @@
 また、Alfredの機能で実現してますが、キーワードが英語でも日本語でも”発火”します（バイリンガル起動）
 
 
+
 ### Lesson3.選択中のテキストとHOTKEYで起動させる
 [Tripadvisor](https://github.com/KitanoTamotsu/tripadvisor)<br>
 ソースコードレス・ワークフロー。HOTKEYを押すと、選択中の文字列でトリップアドバイザーを検索します。
+
 
 
 ### Lesson4.シェルスクリプトでURLエンコードする
@@ -32,15 +35,18 @@
 価格コムをキーワード検索します。％エンコードを試してみました。
 
 
+
 ### Lesson5.複数のパラメータを利用する
 [電車ルート検索](https://github.com/KitanoTamotsu/norikae)<br>
 ジョルダンの乗り換え案内を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています。
+
 
 
 ### Lesson6.Alfredの出力フォーマットを試してみる
 [Alfred JSON formatのテスト](https://github.com/KitanoTamotsu/testjson)<br>
 Tips3でgoogle suggestを解析したらxmlでalfredのリターン用インターフェイスを作成しているようでした。
 現状ではJSONが推奨とのことで試してみました.といってもAlfredのサンプルを使っているだけです。
+
 
 
 ### Lesson7.MXLをパースする
