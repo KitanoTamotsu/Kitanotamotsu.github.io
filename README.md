@@ -52,11 +52,9 @@ AlfredのJSONフォーマット出力の利用、RSSファイル（XML)のパー
 ## Tips
 ワークフォロー作成時のもろもろです
 
- ### 1.[alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
- 
- ### 2.[ワークフロー用透過アイコンの作成方法](https://github.com/KitanoTamotsu/tips2/)
-
- ### 3.[Google suggest ワークフローを解析してみる](https://github.com/KitanoTamotsu/tips3/)
+### 1.[alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
+### 2.[ワークフロー用透過アイコンの作成方法](https://github.com/KitanoTamotsu/tips2/)
+### 3.[Google suggest ワークフローを解析してみる](https://github.com/KitanoTamotsu/tips3/)
 
 
 
