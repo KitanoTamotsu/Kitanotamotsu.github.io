@@ -1,11 +1,12 @@
 # Welcome to My GitHub Pages
 
-Alfredワークフローのサンプル。自分の勉強の足跡として公開します
+## Alfredワークフローのサンプル。自分の勉強の足跡として公開します
 - 基本的に言語はシェルスクリプト（bin/bash）で作成します
 - 1リポジトリに1ワークフローを投稿します
 - それぞれのフォルダーのreadme.txtに、ポイントとなる開発メモを残します
 - 私がAlfred初心者なので、皆さんの参考になれば幸いです
 - トップページ以外はGithubリポジトリでの公開とします（手抜きです）
+
 
 ## Alfred Workflow Examples
 
@@ -49,12 +50,13 @@ AlfredのJSONフォーマット出力の利用、RSSファイル（XML)のパー
 
 
 
-## Tips
-ワークフォロー作成時のもろもろです
 
+## Tips
+## ワークフロー作成時のもろもろです
 ### 1.[alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
 ### 2.[ワークフロー用透過アイコンの作成方法](https://github.com/KitanoTamotsu/tips2/)
 ### 3.[Google suggest ワークフローを解析してみる](https://github.com/KitanoTamotsu/tips3/)
+
 
 
 
