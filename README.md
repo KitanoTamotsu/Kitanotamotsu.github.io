@@ -10,28 +10,28 @@ Alfredワークフローのサンプルを公開します
 ## Alfred Workflow Examples
 
 ### Lesson1.[Google Suggest](https://github.com/KitanoTamotsu/googlesuggest)
-ソースコードレス・ワークフロー。練習作です。Githubの練習もかねて作ってみました
+ソースコードレス・ワークフロー。練習作です。Githubの練習もかねて作ってみました。
 
 ### Lesson2.[Google Timeline](https://github.com/KitanoTamotsu/googletimeline)
-キーワードとパラメータを受け取り、URLを開きます.URLのパラメータを設定する最もプリミティブなワークフローの例です.
+キーワードとパラメータを受け取り、URLを開きます。URLのパラメータを設定する最もプリミティブなワークフローの例です。
 また、Alfredの機能で実現してますが、キーワードが英語でも日本語でも”発火”します（バイリンガル起動）
 
 ### Lesson3.[Tripadvisor](https://github.com/KitanoTamotsu/tripadvisor)
-ソースコードレス・ワークフロー.HOTKEYを押すと、選択中の文字列でトリップアドバイザーを検索します.
+ソースコードレス・ワークフロー。HOTKEYを押すと、選択中の文字列でトリップアドバイザーを検索します。
 
 ### Lesson4.[価格コム検索](https://github.com/KitanoTamotsu/kakaku.comKeywordSearch)
-価格コムをキーワード検索します.％エンコードを試してみました.
+価格コムをキーワード検索します。％エンコードを試してみました。
 
 ### Lesson5.[電車ルート検索](https://github.com/KitanoTamotsu/norikae)
-ジョルダンの乗り換え案内を検索します.出発駅、到着駅、到着時間という複数のパラメータに対応しています.
+ジョルダンの乗り換え案内を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています。
 
 ### Lesson6.[Alfred JSON formatのテスト](https://github.com/KitanoTamotsu/testjson)
-Tips3でgoogle suggestを解析したらxmlでalfredのリターン用インターフェイスを作成しているようでした.
-現状ではJSONが推奨とのことで試してみました.といってもAlfredのサンプルを使っているだけです.
+Tips3でgoogle suggestを解析したらxmlでalfredのリターン用インターフェイスを作成しているようでした。
+現状ではJSONが推奨とのことで試してみました.といってもAlfredのサンプルを使っているだけです。
 
 ### Lesson7.[Yahoo!みんなの意見RSS](https://github.com/KitanoTamotsu/yahoo)
-Lesson6でテストしたJSONフォーマットを利用して何かできないものかと考えていたらRSSに辿り着きました.
-AlfredのJSONフォーマット出力の利用、RSSファイル（XML)のパースと要素の抽出などを実装しています.
+Lesson6でテストしたJSONフォーマットを利用して何かできないものかと考えていたらRSSに辿り着きました。
+AlfredのJSONフォーマット出力の利用、RSSファイル（XML)のパースと要素の抽出などを実装しています。
 
 
 ## Tips
