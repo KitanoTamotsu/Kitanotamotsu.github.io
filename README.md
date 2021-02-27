@@ -23,11 +23,15 @@ Alfredワークフローのサンプルを公開します
 価格コムをキーワード検索します。％エンコードを試してみました
 
 ### 5.[電車ルート検索](https://github.com/KitanoTamotsu/norikae)
-ジョルダンの乗り換え案内を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています。
+ジョルダンの乗り換え案内を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています
 
 ### 6.[Alfred JSON formatのテスト](https://github.com/KitanoTamotsu/testjson)
-Tips3でgoogle suggestを解析したらxmlでalfredのリターン用インターフェイスを作成しているようでした。
-現状ではJSONが推奨とのことで試してみまいた。といってもAlfredのサンプルを使っているだけです。
+Tips3でgoogle suggestを解析したらxmlでalfredのリターン用インターフェイスを作成しているようでした
+現状ではJSONが推奨とのことで試してみまいた。といってもAlfredのサンプルを使っているだけです
+
+### 7.[Yahoo!みんなの意見RSS](https://github.com/KitanoTamotsu/yahoo)
+No6でテストしたJSONフォーマットを利用して何かできないものかと考えていたらRSSに辿り着きました
+AlfredのJSONフォーマット出力の利用、RSSファイル（XML)のパースと要素の抽出など実装しています
 
 
 ## Tips
@@ -38,6 +42,7 @@ Tips3でgoogle suggestを解析したらxmlでalfredのリターン用インタ�
  2.[ワークフロー用透過アイコンの作成方法](https://github.com/KitanoTamotsu/tips2/)
 
  3.[Google suggest ワークフローを解析してみる](https://github.com/KitanoTamotsu/tips3/)
+
 
 
 ## 環境
