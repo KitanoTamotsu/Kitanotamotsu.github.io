@@ -37,7 +37,7 @@
 
 
 
-### <font color='green'>Lesson6.Alfredの出力フォーマットを試してみる</font>　[Alfred JSON formatのテスト](https://github.com/KitanoTamotsu/testjson)
+### <font color='green'>Lesson6.Alfredの出力フォーマットを試してみる</font>　[JSONのテスト](https://github.com/KitanoTamotsu/testjson)
 Tips3でgoogle suggestを解析したらxmlでalfredのリターン用インターフェイスを作成しているようでした。
 現状ではJSONが推奨とのことで試してみました.といってもAlfredのサンプルを使っているだけです。
 
