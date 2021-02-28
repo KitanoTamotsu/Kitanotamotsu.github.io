@@ -10,22 +10,23 @@ Alfredワークフローのサンプルを公開。私がAlfred初心者なの�
 ## Alfred Workflow Examples
 
 <font color='green'>Lesson1.初めてのワークフロー</font>　
-<br>[Google Suggest](https://github.com/KitanoTamotsu/googlesuggest)
+[Google Suggest](https://github.com/KitanoTamotsu/googlesuggest)
 <br>ソースコードレス・ワークフロー。
 <br>練習作です。Githubの練習もかねて作ってみました。
 
 
 <font color='green'>Lesson2.入力パラメータを利用してURLを組み立てる</font>　
-<br>[Google Timeline](https://github.com/KitanoTamotsu/googletimeline)
+[Google Timeline](https://github.com/KitanoTamotsu/googletimeline)
 <br>キーワードとパラメータを受け取り、URLを開きます。
 <br>URLのパラメータを設定する最もプリミティブなワークフローの例です。
-<br>また、Alfredの機能で実現してますが、キーワードが英語でも日本語でも”発火”します（バイリンガル起動）
+<br>また、Alfredの機能で実現してますが、キーワードが英語でも日本語でも”発火”します。
+<br>勝手にバイリンガル起動と呼んでいます。
 
 
 
 
 <font color='green'>Lesson3.選択中のテキストとHOTKEYで起動させる</font>　
-<br>[Tripadvisor](https://github.com/KitanoTamotsu/tripadvisor)
+[Tripadvisor](https://github.com/KitanoTamotsu/tripadvisor)
 <br>ソースコードレス・ワークフロー。
 <br>選択中の文字列をAlfredのパラメータとして利用します。
 
@@ -33,7 +34,7 @@ Alfredワークフローのサンプルを公開。私がAlfred初心者なの�
 
 
 <font color='green'>Lesson4.シェルスクリプトでURLエンコードする</font>　
-<br>[価格コム検索](https://github.com/KitanoTamotsu/kakaku.comKeywordSearch)
+[価格コム検索](https://github.com/KitanoTamotsu/kakaku.comKeywordSearch)
 <br>価格コムをキーワード検索します。
 <br>nkfコマンドによる％エンコードを実装しています。
 
@@ -41,7 +42,7 @@ Alfredワークフローのサンプルを公開。私がAlfred初心者なの�
 
 
 <font color='green'>Lesson5.複数のパラメータを利用する</font>　
-<br>[電車ルート検索](https://github.com/KitanoTamotsu/norikae)
+[電車ルート検索](https://github.com/KitanoTamotsu/norikae)
 <br>ジョルダンの乗り換え案内を検索します。
 <br>出発駅、到着駅、到着時間という複数のパラメータに対応しています。
 
@@ -49,17 +50,18 @@ Alfredワークフローのサンプルを公開。私がAlfred初心者なの�
 
 
 <font color='green'>Lesson6.Alfredの出力フォーマットを試してみる</font>　
-<br>[JSONのテスト](https://github.com/KitanoTamotsu/testjson)
-<br>Tips3でgoogle suggestを解析したらxmlでAlfredのリターン用インターフェイスを作成しているようでした。
-<br>現状ではJSONが推奨とのことなので試してみました。といってもAlfredのサンプルを使っているだけです。
+[JSONのテスト](https://github.com/KitanoTamotsu/testjson)
+<br>Tips3でgoogle suggestを解析したら、Alfredの出力xmlを使っていることがわかりました。
+<br>Alfredのサンプルを見て真似してみました。JSON出力フォーマットを利用しています。
 
 
 
 
 <font color='green'>Lesson7.MXLをパースする</font>　
-<br>[Yahoo!みんなの意見RSS](https://github.com/KitanoTamotsu/yahoo)
-<br>Lesson6でテストしたJSONフォーマットを利用して何かできないものかと考えていたらRSSに辿り着きました。
-<br>AlfredのJSONフォーマット出力の利用、RSSファイル（XML)のパースと要素の抽出などを実装しています。
+[Yahoo!みんなの意見RSS](https://github.com/KitanoTamotsu/yahoo)
+<br>JSON出力フォーマットの利用を考えていたらRSSに辿り着きました。
+<br>AlfredのJSON出力フォーマット出力の利用や
+<br>RSSファイル（XML)のパースと要素の抽出などを実装しています。
 
 
 
