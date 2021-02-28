@@ -10,9 +10,9 @@ Alfredワークフローのサンプルを公開。私がAlfred初心者なの�
 ## Alfred Workflow Examples
 
 [Lesson1.初めてのワークフロー](https://github.com/KitanoTamotsu/googlesuggest)
-<br>ソースコードレス・ワークフロー。
+<small><br>ソースコードレス・ワークフロー。
 <br>練習作です。Githubの練習もかねて作ってみました。
-<br>Google SuggestをHOTKEYで起動します。
+<br>Google SuggestをHOTKEYで起動します。</small>
 
 [Lesson2.入力パラメータを利用してURLを組み立てる](https://github.com/KitanoTamotsu/googletimeline)
 <br>Google Timelineを日付指定で開きます。
