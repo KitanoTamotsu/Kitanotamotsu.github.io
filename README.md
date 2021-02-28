@@ -1,11 +1,9 @@
 # Welcome to My GitHub Pages
 
 Alfredワークフローのサンプルを公開しています
-私がAlfred初心者なので、皆さんの参考になれば幸いです
-<br>・基本的に言語はシェルスクリプト（bin/bash）で作成
-<br>・1リポジトリに1ワークフローを投稿
-<br>・それぞれのフォルダーのreadme.txtに、ポイントとなる開発メモを記載
-<br>・トップページ以外はGithubリポジトリでの公開（手抜きです）
+<br>私がAlfred初心者なので、皆さんの参考になれば幸いです
+<br>各サンプルのreadmeに開発メモを記載しているのでご参考まで
+
 
 
 ## Alfred Workflow Examples
