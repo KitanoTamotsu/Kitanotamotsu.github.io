@@ -54,6 +54,12 @@ Alfredワークフローのサンプルを公開しています
 <br>
 <br>
 <br>
+[Lesson8.RSSニュースを検索する](https://github.com/KitanoTamotsu/searchnews)
+<br>Lesson7の変形です。
+<br>GoogleニュースのRSSがキーワード検索をサポートしていたので作ってみました
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>[Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
