@@ -60,6 +60,12 @@ Alfredワークフローのサンプルを公開しています
 <br>
 <br>
 <br>
+[Lesson9.ブラウザのアクティブページのURLを取得する](https://github.com/KitanoTamotsu/translate)
+<br>もともとはconditionalユーティリティとクリップボードを扱うサンプルを作ったのですが
+<br>直接ブラウザから情報を取得してみました
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>[Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
