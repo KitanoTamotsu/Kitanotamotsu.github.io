@@ -56,14 +56,14 @@ Alfredワークフローのサンプルを公開しています
 <br>
 [Lesson8.RSSニュースを検索する](https://github.com/KitanoTamotsu/searchnews)
 <br>Lesson7の変形です。
-<br>GoogleニュースのRSSがキーワード検索をサポートしていたので作ってみました
+<br>GoogleニュースのRSSがキーワード検索をサポートしていたので作ってみました。
 <br>
 <br>
 <br>
 [Lesson9.ブラウザのアクティブページのURLを取得する](https://github.com/KitanoTamotsu/translate)
 <br>もともとはconditionalユーティリティとクリップボードを扱うサンプルを作ったのですが
-<br>直接ブラウザから情報を取得してみました
-<br>
+<br>直接ブラウザから情報を取得してみました。
+<br>シェルスクリプトからappleスクリプトを実行しています。
 <br>
 <br>
 ## Tips
