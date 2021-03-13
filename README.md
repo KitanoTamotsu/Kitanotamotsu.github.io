@@ -80,7 +80,7 @@ Alfredワークフローのサンプルを公開しています
 <br>[Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
 <br>[Tips2.ワークフロー用透過アイコンの作成方法](https://github.com/KitanoTamotsu/tips2/)
 <br>[Tips3.Google suggest ワークフローを解析してみる](https://github.com/KitanoTamotsu/tips3/)
-<br>[Tips4.Mighty Optical Illusin のおまかせページを翻訳する](https://github.com/KitanoTamotsu/tips4/)
+<br>[Tips4.Mighty Optical Illusion のおまかせページを翻訳する](https://github.com/KitanoTamotsu/tips4/)
 <br>
 <br>
 <br>
