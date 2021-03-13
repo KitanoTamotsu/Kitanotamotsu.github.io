@@ -77,7 +77,7 @@ Alfredワークフローのサンプルを公開しています
 <br>
 [Lesson11.ローカルファイルを利用する](https://github.com/KitanoTamotsu/avatar)
 <br>Joe SchmoeのAPIを利用してアバターを作成します
-<br>Alfredとしてはリターンされるアバター画像からhtmlを生成してローカルに保存します
+<br>リターンされるアバター画像からhtmlを生成してローカルに保存します
 <br>
 <br>
 <br>
