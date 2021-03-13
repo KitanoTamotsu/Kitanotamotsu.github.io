@@ -67,6 +67,12 @@ Alfredワークフローのサンプルを公開しています
 <br>
 <br>
 <br>
+[Lesson10.TVをリモート操作する](https://github.com/KitanoTamotsu/natureremo)
+<br>AlfredはTVリモコン機能はありませんがNatureRemoのAPIを使ってTVを操作します
+<br>Alfredとしてはエキスポート禁止の変数の使い方のサンプルとなります
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>[Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
