@@ -67,7 +67,7 @@ Alfredワークフローのサンプルを公開しています
 <br>
 <br>
 <br>
-[Lesson10.TVをリモート操作する](https://github.com/KitanoTamotsu/natureremo)
+[Lesson10.TVのリモコン](https://github.com/KitanoTamotsu/natureremo)
 <br>AlfredはTVリモコン機能はありませんがNatureRemoのAPIを使ってTVを操作します
 <br>Alfredとしてはエキスポート禁止の変数の使い方のサンプルとなります
 <br>『TV ++』でテレビのボリュームが2メモリ上げれるので、なかなか面白いかも
