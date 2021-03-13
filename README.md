@@ -47,28 +47,28 @@ Alfredワークフローのサンプルを公開しています
 <br>
 <br>
 [Lesson7.MXLをパースする](https://github.com/KitanoTamotsu/yahoo)
-<br>JSON出力フォーマットの利用を考えていたらRSSに辿り着きました
+<br>Yahoo!みんなの意見のRSS表示ツールです
 <br>AlfredのJSON出力フォーマット出力の利用や
 <br>RSSファイル（XML)のパースと要素の抽出などを実装しています
-<br>Yahoo!みんなの意見のRSS表示ツールです
 <br>
 <br>
 <br>
 [Lesson8.RSSニュースを検索する](https://github.com/KitanoTamotsu/searchnews)
+<br>GoogleニュースRSSのキーワード検索です
 <br>Lesson7の変形です
-<br>GoogleニュースのRSSがキーワード検索をサポートしていたので作ってみました
 <br>
 <br>
 <br>
 [Lesson9.ブラウザからURLを取得する](https://github.com/KitanoTamotsu/translate)
+<br>ブラウザで開いているページを翻訳します
+<br>コアはgoogle translateです
+<br>ブラウザから情報を取得するためシェルスクリプトからappleスクリプトを実行していますが
 <br>もともとはconditionalユーティリティとクリップボードを扱うサンプルとして作ったものです
-<br>Alfred workflowの機能とは関係がありませんが、ブラウザから情報を取得するため
-<br>シェルスクリプトからappleスクリプトを実行しています
 <br>
 <br>
 <br>
 [Lesson10.TVのリモコン](https://github.com/KitanoTamotsu/natureremo)
-<br>AlfredはTVリモコン機能はありませんがNatureRemoのAPIを使ってTVを操作します
+<br>Alfredの入力でTVを操作します。コアはNatureRemoのAPIです
 <br>Alfredとしてはエキスポート禁止の変数の使い方のサンプルとなります
 <br>『TV ++』でテレビのボリュームが2メモリ上げれるので、なかなか面白いかも
 <br>もちろんスクリプトを改造すれば、TV以外のリモコンにもなりますよ
@@ -80,6 +80,7 @@ Alfredワークフローのサンプルを公開しています
 <br>[Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
 <br>[Tips2.ワークフロー用透過アイコンの作成方法](https://github.com/KitanoTamotsu/tips2/)
 <br>[Tips3.Google suggest ワークフローを解析してみる](https://github.com/KitanoTamotsu/tips3/)
+<br>[Tips4.Mighty Optical Illusin のおまかせページを翻訳する](https://github.com/KitanoTamotsu/tips4/)
 <br>
 <br>
 <br>
