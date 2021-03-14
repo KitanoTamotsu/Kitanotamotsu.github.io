@@ -81,6 +81,13 @@ Alfredワークフローのサンプルを公開しています
 <br>
 <br>
 <br>
+[Lesson12.randomユーティリティを使用する](https://github.com/KitanoTamotsu/wikipedia)
+<br>ウィキペディアのおまかせ表示が興味のない記事ばかりという方におすすめ
+<br>カテゴリー内の記事をランダムに表示させることができます
+<br>randomユーティリティを利用したコードレスワークフローです
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>[Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
