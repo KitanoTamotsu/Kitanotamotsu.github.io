@@ -22,9 +22,10 @@ Alfredワークフローのサンプルを公開しています
 <br>
 <br>
 <br>
-[Lesson3.選択中のテキストとHOTKEYで起動させる](https://github.com/KitanoTamotsu/tripadvisor)
-<br>ソースコードレス・ワークフロー
-<br>選択中の文字列を取得して、Tripadvisorを検索します
+[Lesson3.選択中のテキストを{query}にする](https://github.com/KitanoTamotsu/tripadvisor)
+<br>{query}というのはAlfred workflowの受け渡しです
+<br>選択中の文字列を受け渡すことで、ソースコードレスとなります
+<br>その受け渡しでTripadvisorを検索します
 <br>
 <br>
 <br>
@@ -62,14 +63,14 @@ Alfredワークフローのサンプルを公開しています
 [Lesson9.ブラウザからURLを取得する](https://github.com/KitanoTamotsu/translate)
 <br>ブラウザで開いているページを翻訳します
 <br>コアはgoogle translateです
-<br>ブラウザから情報を取得するためシェルスクリプトからappleスクリプトを実行していますが
-<br>もともとはconditionalユーティリティとクリップボードを扱うサンプルとして作ったものです
+<br>ブラウザから情報を取得するためシェルスクリプトからappleスクリプトを実行しています
+<br>もとはconditionalユーティリティとクリップボードを扱うサンプルとして作ったものです
 <br>
 <br>
 <br>
 [Lesson10.TVのリモコン](https://github.com/KitanoTamotsu/natureremo)
 <br>Alfredの入力でTVを操作します。コアはNatureRemoのAPIです
-<br>Alfredとしてはエキスポート禁止の変数の使い方のサンプルとなります
+<br>エキスポート禁止の変数の使い方のサンプルとなります
 <br>『TV ++』でテレビのボリュームが2メモリ上げれるので、なかなか面白いかも
 <br>もちろんスクリプトを改造すれば、TV以外のリモコンにもなりますよ
 <br>
