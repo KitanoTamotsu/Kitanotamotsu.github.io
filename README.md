@@ -25,7 +25,7 @@ Alfredワークフローのサンプルを公開しています
 [Lesson3.選択中のテキストを{query}にする](https://github.com/KitanoTamotsu/tripadvisor)
 <br>{query}というのはAlfred workflowの受け渡しです
 <br>選択中の文字列を受け渡すことで、ソースコードレスとなります
-<br>その受け渡しでTripadvisorを検索します
+<br>その受け渡したキーワードでTripadvisorを検索します
 <br>
 <br>
 <br>
