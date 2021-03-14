@@ -10,7 +10,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 
 [Lesson1.初めてのワークフロー](https://github.com/KitanoTamotsu/googlesuggest)
 <br>ソースコードレス・ワークフロー。練習作です。Githubの練習も兼ねて作ってみました
-<br>Google SuggestをHOTKEYで起動します
+<br>サンプルワークフローのGoogle SuggestをHOTKEYで起動します
 <br>
 <br>
 <br>
