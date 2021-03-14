@@ -1,6 +1,6 @@
 # Welcome to My GitHub Pages
 
-Alfredワークフローのサンプルを公開していますというか、遊んでいます
+Alfredワークフローのサンプルを公開しています、というか、遊んでいます
 <br>私がAlfred初心者なので、皆さんの参考になれば幸いです
 <br>各サンプルのreadmeに開発メモを記載しているのでご参考まで
 <br>
@@ -9,8 +9,8 @@ Alfredワークフローのサンプルを公開していますというか、�
 ## Alfred Workflow Examples
 
 [Lesson1.初めてのワークフロー](https://github.com/KitanoTamotsu/googlesuggest)
-<br>ソースコードレス・ワークフロー。練習作です。Githubの練習もかねて作ってみました。
-<br>Google SuggestをHOTKEYで起動します。
+<br>ソースコードレス・ワークフロー。練習作です。Githubの練習も兼ねて作ってみました
+<br>Google SuggestをHOTKEYで起動します
 <br>
 <br>
 <br>
