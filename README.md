@@ -1,6 +1,6 @@
 # Welcome to My GitHub Pages
 
-Alfredワークフローのサンプルを公開しています
+Alfredワークフローのサンプルを公開していますというか、遊んでいます
 <br>私がAlfred初心者なので、皆さんの参考になれば幸いです
 <br>各サンプルのreadmeに開発メモを記載しているのでご参考まで
 <br>
