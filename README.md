@@ -15,7 +15,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 [Lesson2.入力パラメータを利用してURLを組み立てる](https://github.com/KitanoTamotsu/googletimeline)
-<br>Google Timelineを日付指定で開きます。
+<br><red>Google Timeline</red>を日付指定で開きます。
 <br>Alfredとしてはパラメータを受け取り、URLを生成します。
 <br>URLのパラメータを設定する最もプリミティブなワークフローの例
 <br>キーワードが英語でも日本語でも”発火”します。勝手にバイリンガル起動と呼んでいます
