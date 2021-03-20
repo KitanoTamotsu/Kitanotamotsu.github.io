@@ -89,6 +89,13 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+[Lesson13.randomユーティリティを動的に設定する/Notificationに2つのパラメータを渡す](https://github.com/KitanoTamotsu/favo)
+<br>ローカルファイルにお気に入りのURLを保存しておき、好きな時にランダムに表示させるお遊びツール
+<br>randomユーティリティのワードリストを外部ファイルから読み込んだり
+<br>標準出力以外の受け渡しとして変数を使ったりしています
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>[Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
