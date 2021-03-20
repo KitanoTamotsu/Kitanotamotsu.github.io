@@ -96,6 +96,13 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+[Lesson14.RSSやHTMLをパースする/出力する一覧をコントロールする](https://github.com/KitanoTamotsu/rssmania)
+<br>RSS表示ツールです。26のRSSやHTMLをパースしています
+<br>パラメータの文字数で記事一覧のページ替えをコントロールしています
+<br>いろいろと応用が効く使い方だと思います
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>[Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/)
