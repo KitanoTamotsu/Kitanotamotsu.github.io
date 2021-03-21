@@ -90,16 +90,29 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 [Lesson13.randomユーティリティを動的に設定する/Notificationに2つのパラメータを渡す](https://github.com/KitanoTamotsu/favo)
-<br>ローカルファイルにお気に入りのURLを保存しておき、好きな時にランダムに表示させるお遊びツール
-<br>randomユーティリティのワードリストを外部ファイルから読み込んだり
-<br>標準出力以外の受け渡しとして変数を使ったりしています
+<br>お気に入りのURLを保存しておき、好きな時にランダムに表示させるお遊びツールです
+<br>randomユーティリティのワードリストを外部ファイルからセットしています
+<br>Notificationに2つのパラメータを渡すために、Arg and Varsオブジェクトを使っています
 <br>
 <br>
 <br>
 [Lesson14.RSSやHTMLをパースする/出力する一覧をコントロールする](https://github.com/KitanoTamotsu/rssmania)
-<br>RSS表示ツールです。26のRSSやHTMLをパースしています
+<br>RSS表示ツールです。26個のRSSやHTMLをパースしています
 <br>パラメータの文字数で記事一覧のページ替えをコントロールしています
 <br>Alfredのインクリメンタルサーチと紐づいて、いろいろと応用が効く使い方だと思います
+<br>
+<br>
+<br>
+[Lesson15.Arg and Varsオブジェクトの変数を動的にセットする](https://github.com/KitanoTamotsu/sourceviewer)
+<br>RSSやHTMLのソースを表示させるツールです。ソースはテキストファイルとして保管します
+<br>その際、ファイル名に使う日時をArg and Varsオブジェクトで設定しています
+<br>
+<br>
+<br>
+[Lesson16.出力フォーマットのセットをランダムに行う](https://github.com/KitanoTamotsu/trivia)
+<br>伝説の雑学番組<font color=red>トリビアの泉</font>をランダムに表示します
+<br>ツールではインターネットアクセスしていませんが、元ネタはこちらです
+<br>https://www.noncky.net/trivia/
 <br>
 <br>
 <br>
