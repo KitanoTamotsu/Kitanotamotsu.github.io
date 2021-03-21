@@ -104,7 +104,8 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 [Lesson15.Arg and Varsオブジェクトの変数を動的にセットする](https://github.com/KitanoTamotsu/sourceviewer)
-<br>RSSやHTMLのソースを表示させるツールです。ソースはテキストファイルとして保管します
+<br>RSSやHTMLのソースを表示させるツールです
+<br>ソースはテキストファイルとして保管します
 <br>その際、ファイル名に使う日時をArg and Varsオブジェクトで設定しています
 <br>
 <br>
