@@ -110,7 +110,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
-[Lesson16.出力フォーマットのセットをランダムに行う](https://github.com/KitanoTamotsu/trivia)
+[Lesson16.出力フォーマットへランダムにセットする](https://github.com/KitanoTamotsu/trivia)
 <br>伝説の雑学番組<font color=red>トリビアの泉</font>をランダムに表示します
 <br>ツールではインターネットアクセスしていませんが、元ネタはこちらです
 <br>https://www.noncky.net/trivia/
