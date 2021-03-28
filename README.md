@@ -48,7 +48,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 [Lesson7.MXLをパースする](https://github.com/KitanoTamotsu/yahoo) 2021-02-27
-<br><font color=red>Yahoo!みんなの意見</font>のRSS表示ツールです
+<br><font color=red>Yahoo!みんなの意見</font>のRSS表示ワークフローです
 <br>AlfredのJSON出力フォーマット出力の利用や
 <br>RSSファイル（XML)のパースと要素の抽出などを実装しています
 <br>
@@ -90,7 +90,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 [Lesson13.randomユーティリティを動的に設定する/Notificationに2つのパラメータを渡す](https://github.com/KitanoTamotsu/favo)  2021-03-20
-<br>お気に入りのURLを保存しておき、好きな時にランダムに表示させるお遊びツールです
+<br>お気に入りのURLを保存しておき、好きな時にランダムに表示させるお遊びワークフローです
 <br>randomユーティリティのワードリストを外部ファイルからセットしています
 <br>Notificationに2つのパラメータを渡すために、Arg and Varsオブジェクトを使っています
 <br>
