@@ -117,6 +117,12 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+[Lesson17.Alfred環境変数を使ってカスタマイズ設定を可能とする](https://github.com/KitanoTamotsu/nazonazo) 2021-03-28
+<br>なぞなぞを出題するお遊びワークフローです
+<br>1度に出題する問題数や、出題したなぞなぞを保存する場所をカスタマイズできます
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>[Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 2021-02-14
