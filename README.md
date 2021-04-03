@@ -140,7 +140,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>2021-04-04<br>
 [Lesson18.別のワークフローを呼び出す](https://github.com/KitanoTamotsu/tv) 
-<br>Lesson10で<font color=red>NatureRemo</font>のAPをつかってTVを操作するワークフローを作成しましたが
+<br>Lesson10で<font color=red>NatureRemo</font>のAPを使ってTVを操作するワークフローを作成しましたが
 <br>今回はその入口にTV番組表を追加しました
 <br>
 <br>
