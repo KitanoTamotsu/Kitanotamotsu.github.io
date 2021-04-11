@@ -145,6 +145,14 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+<br>2021-04-11<br>
+[Lesson19.ホットキー起動のツールを作成する／後続フローを二股にする](https://github.com/KitanoTamotsu/quickterminal) 
+<br>選択しているテキストによってURLをOPENしたり、TERMINALで実行したり、ブラウザで検索したりします
+<br>Hotkey起動時の選択テキストの連携や、Colditionalオブジェクトのgrep判定の機能をつかいます
+<br>また、ターミナルでの実行とクリップボードへのコピーは後続フローを二股にして非同期に処理しています
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 
