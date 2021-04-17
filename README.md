@@ -100,10 +100,10 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>2021-03-20<br>
-[Lesson13.randomユーティリティを動的に設定する/Notificationに2つのパラメータを渡す](https://github.com/KitanoTamotsu/favo)  
+[Lesson13.randomユーティリティの選択肢を動的に設定する](https://github.com/KitanoTamotsu/favo)  
 <br>お気に入りのURLを保存しておき、好きな時にランダムに表示させるお遊びワークフローです
-<br>randomユーティリティのワードリストを外部ファイルからセットしています
-<br>Notificationに2つのパラメータを渡すために、Arg and Varsオブジェクトを使っています
+<br>randomユーティリティのワードリストを外部ファイルから動的に作成しています
+<br>またNotificationに渡すメッセージをArg and Varsでセットしています
 <br>
 <br>
 <br>
