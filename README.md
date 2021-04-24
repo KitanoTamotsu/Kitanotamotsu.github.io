@@ -160,6 +160,13 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+<br>2021-04-24<br>
+[Lesson21.『アレクサ、うんちく教えて』をワークフローにする](https://github.com/KitanoTamotsu/unchiku) 
+<br>お遊びで、アレクサの真似をしてみました
+<br>『うんちく教えて』でも、『雑学教えて』でも、『豆知識教えて』でも起動するマルチキーワード構造です
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 
