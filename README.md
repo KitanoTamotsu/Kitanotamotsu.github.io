@@ -167,6 +167,14 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+<br>2021-05-01<br>
+[Lesson22.スクリプトフィルターとキーワードインプットをハイブリッドにする](https://github.com/KitanoTamotsu/aircon) 
+<br><font color=red>NatureRemo</font>のAPIを利用してエアコンを操作します
+<br>Lesson10と18でテレビを操作しましたが、今回はエアコンです
+<br>室温や湿度を確認できます
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 
