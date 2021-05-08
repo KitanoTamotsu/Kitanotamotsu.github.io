@@ -176,7 +176,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>2021-05-08<br>
-[Lesson22.スクリプトフィルターをワークフローの途中で使う](https://github.com/KitanoTamotsu/ameba) 
+[Lesson23.スクリプトフィルターをワークフローの途中で使う](https://github.com/KitanoTamotsu/ameba) 
 <br>ランダムに<font color=red>amebaブログ</font>のRSSを読み込んで記事一覧を表示させます
 <br>Lesson14のRSSマニア等の変形です
 <br>スクリプトフィルターがワークフローの途中でも利用できることがわかったので、また用途が広がりますね
