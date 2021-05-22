@@ -192,7 +192,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>2021-05-22<br>
-[Lesson23.スニペット起動を使ってみる](https://github.com/KitanoTamotsu/now) 
+[Lesson25.スニペット起動を使ってみる](https://github.com/KitanoTamotsu/now) 
 <br>ワークフローのトリガーにスニペットがあったので気になって使ってみました
 <br>ScriptFilterとあわせて引数を受け取る機能を実装しています
 <br>
