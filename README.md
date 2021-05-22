@@ -183,10 +183,20 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>また用途が広がりますね
 <br>
 <br>
+<br>
 <br>2021-05-16<br>
 [Lesson24.AlfredのJSON出力を10以上設定する／濁音・半濁音検索に対応する](https://github.com/KitanoTamotsu/recipe) 
 <br>NHKレシピサイト<font color=red>『きょうのみんなの料理』</font>の検索結果を表示させています
 <br>また、作成中に判明した、濁音・半濁音を含む検索にも対応しています
+<br>
+<br>
+<br>
+<br>2021-05-22<br>
+[Lesson23.スニペット起動を使ってみる](https://github.com/KitanoTamotsu/now) 
+<br>ワークフローのトリガーにスニペットがあったので気になって使ってみました
+<br>ScriptFilterとあわせて引数を受け取る機能を実装しています
+<br>
+<br>
 <br>
 ## Tips
 ワークフロー作成時のもろもろです
