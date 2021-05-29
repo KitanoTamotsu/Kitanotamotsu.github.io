@@ -199,6 +199,14 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+<br>2021-05-29<br>
+[Lesson26.四字熟語であそんでみる](https://github.com/KitanoTamotsu/4ji) 
+<br>今回はレッスンとして目新しいものはないです。。。
+<br>難読四字熟語をランダムに表示します
+<br>暇つぶしにどうぞ
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 
