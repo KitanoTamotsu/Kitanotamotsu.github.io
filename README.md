@@ -207,6 +207,14 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+<br>2021-06-06<br>
+[Lesson27.ワークフローを放置する](https://github.com/KitanoTamotsu/sourcecutter) 
+<br>conditionalユーティリティで条件を設定するものの、後続を描かずに放置する例です
+<br>こんな使い方もできるのかなというノリで見てください
+<br>素材としては、テキストのn文字目やn行目を検索するツールを作成しています
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 
