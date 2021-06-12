@@ -101,7 +101,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>2021-03-20<br>
 [Lesson13.randomユーティリティの選択肢を動的に設定する](https://github.com/KitanoTamotsu/favo) 
-<br>お気に入りのURLを保存しておき、好きな時にランダムに表示させるお遊びワークフローです
+<br>お気に入りのURLを保存しておき、好きな時にランダムに表示させるお<font color=red>遊びワークフロー</font>です
 <br>randomユーティリティのワードリストを外部ファイルから動的に作成しています
 <br>またNotificationに渡すメッセージをArg and Varsでセットしています
 <br>
@@ -109,7 +109,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>2021-03-20<br>
 [Lesson14.RSSやHTMLをパースする/出力する一覧をコントロールする](https://github.com/KitanoTamotsu/rssmania) 
-<br>RSSをAlfredに出力するおもちゃです
+<br>多数のRSSをAlfredに出力するおもちゃ、その名も<font color=red>RSSマニア</font>です
 <br>パラメータの文字数で記事一覧のページ替えをコントロールしています
 <br>Alfredのインクリメンタルサーチと紐づいて、いろいろと応用が効く使い方だと思います
 <br>
@@ -117,7 +117,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>2021-03-21<br>
 [Lesson15.Arg and Varsオブジェクトの変数を動的にセットする](https://github.com/KitanoTamotsu/sourceviewer) 
-<br>RSSやHTMLのソースを表示させるツールです
+<br>RSSやHTMLのソースを表示させるツール<font color=red>『ソースビュー』</font>です
 <br>ソースはテキストファイルとして保管します
 <br>その際、ファイル名に使う日時をArg and Varsオブジェクトで設定しています
 <br>
@@ -135,6 +135,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 [Lesson17.Alfred環境変数を使ってカスタマイズ設定を可能とする](https://github.com/KitanoTamotsu/nazonazo) 
 <br>なぞなぞを出題するお遊びワークフローです
 <br>1度に出題する問題数や、出題したなぞなぞを保存する場所をカスタマイズできます
+<br>なぞなぞサイト<font color=red>『なぞQ.com』</font>からの出題です
 <br>
 <br>
 <br>
@@ -147,22 +148,25 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>2021-04-11<br>
 [Lesson19.ホットキーツールを作成する／後続フローを二股にする](https://github.com/KitanoTamotsu/quickterminal) 
-<br>選択しているテキストによってURLをOPENしたり、TERMINALで実行したり、ブラウザで検索したりします
-<br>Hotkey起動時の選択テキストの連携や、Colditionalオブジェクトのgrep判定の機能をつかいます
-<br>また、ターミナルでの実行とクリップボードへのコピーは後続フローを二股にして非同期に処理しています
+<br>選択しているテキストによってURLをOPENしたり、
+<br>TERMINALで実行したり、ブラウザで検索したりします
+<br>勝手に<font color=red>『クイックターミナル』</font>と名付けました
+<br>Hotkey起動時の選択テキストの連携や、
+<br>Colditionalオブジェクトのgrep判定の機能をつかいます
+<br>ターミナルでの実行とクリップボードへのコピーは後続フローを二股にして非同期に処理しています
 <br>
 <br>
 <br>
 <br>2021-04-17<br>
 [Lesson20.テキストファイルを行ごとに配列に読み込む](https://github.com/KitanoTamotsu/meigen) 
+<br>ネットサーフィンなどでみつけた名言を保存するツール<font color=red>『自分で集める名言集』</font>です
 <br>Alfredの機能ではないですが、テキストファイルの読み書きの小技を使っています
 <br>1行目に書き出したり、行単位に配列に読み込んだりしています
 <br>
 <br>
-<br>
 <br>2021-04-24<br>
 [Lesson21.『アレクサ、うんちく教えて』をワークフローにする](https://github.com/KitanoTamotsu/unchiku) 
-<br>お遊びで、アレクサの真似をしてみました
+<br>お遊びで、<font color=red>アレクサ</font>の真似をしてみました
 <br>『うんちく教えて』でも、『雑学教えて』でも、『豆知識教えて』でも起動するマルチキーワード構造です
 <br>
 <br>
@@ -195,7 +199,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 [Lesson25.スニペット起動を使ってみる](https://github.com/KitanoTamotsu/now) 
 <br>ワークフローのトリガーにスニペットがあったので気になって使ってみました
 <br>スクリプトフィルターとあわせて引数を受け取る機能を実装しています
-<br>スニペットのキーワード『.now』で整形した日時のバリエーションを表示します
+<br>スニペットのキーワード『.now』で<font color=red>整形した日時のバリエーション</font>を表示します
 <br>
 <br>
 <br>
@@ -203,6 +207,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 [Lesson26.四字熟語であそんでみる](https://github.com/KitanoTamotsu/4ji) 
 <br>今回はレッスンとして目新しいものはないです。。。
 <br>難読四字熟語をランダムに表示します
+<br>元ネタは、<font color=red>『Yattoke! - 小･中学生の学習サイト』の難読四字熟語一覧</font>です
 <br>暇つぶしにどうぞ
 <br>
 <br>
@@ -212,7 +217,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>conditionalユーティリティで条件を設定するものの
 <br>一部の条件には後続を描かずに放置する例です
 <br>こんな使い方もできるのかなというノリで見てください
-<br>素材としては、テキストのn文字目やn行目を検索するツールを作成しています
+<br>題材としては、<font color=red>テキストのn文字目やn行目を検索するツール</font>を作成しています
 <br>
 <br>
 <br>
@@ -220,7 +225,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 [Lesson28.ワークフローを統合する](https://github.com/KitanoTamotsu/plant) 
 <br>ワークフローで分岐した2つの流れを、ひとつのオブジェクトで受け取ります
 <br>Alfredワークフローの柔軟性というか自由度の高さのサンプルです
-<br><font color=red>日本植物生理学会のHP『みんなのひろば』の植物Q&A</font>を検索もしくはランダム表示します
+<br>日本植物生理学会のHP<font color=red>『みんなのひろば』の植物Q&A</font>を検索もしくはランダム表示します
 <br>
 <br>
 <br>
