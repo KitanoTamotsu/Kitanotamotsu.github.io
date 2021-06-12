@@ -216,6 +216,14 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+<br>2021-06-12<br>
+[Lesson28.ワークフローを統合する](https://github.com/KitanoTamotsu/plant) 
+<br>ワークフローで分岐した2つの流れを、ひとつのオブジェクトで受け取ります
+<br>Alfredワークフローの柔軟性というか自由度の高さのサンプルです
+<br><font color=red>日本植物生理学会のHP『みんなのひろば』の植物Q&A</font>を検索もしくはランダム表示します
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 
