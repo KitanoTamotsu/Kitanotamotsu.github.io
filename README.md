@@ -222,7 +222,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>2021-06-12<br>
-[Lesson28.ワークフローを統合する](https://github.com/KitanoTamotsu/plant) 
+[Lesson28.ワークフローをの分岐を統合する](https://github.com/KitanoTamotsu/plant) 
 <br>ワークフローで分岐した2つの流れを、ひとつのオブジェクトで受け取ります
 <br>Alfredワークフローの柔軟性というか自由度の高さのサンプルです
 <br>日本植物生理学会のHP<font color=red>『みんなのひろば』の植物Q&A</font>を検索もしくはランダム表示します
