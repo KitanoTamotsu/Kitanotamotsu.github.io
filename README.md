@@ -231,9 +231,9 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>2021-06-19<br>
 [Lesson29.Alfredのファイルアクションを使ってみる](https://github.com/KitanoTamotsu/fileaction) 
-<br>タイトルの通り<font color=red>Alfredのファイルアクション</font>のワークフローです
-<br>そもそも、Alfredはファイルオペレーションをサポートしていてワークフローがなくてもつかえます
-<br>ワークフローのオブジェクトでFile Actionがあったので試してみました
+<br>タイトルの通りAlfredのファイルアクションのワークフローです
+<br>Alfredはファイルオペレーションをサポートしていてワークフローなしでも便利に使えます
+<br>機能としては、画像ファイルを<font color=red>LuminarAI</font>で開くという単純なものです
 <br>
 <br>
 <br>
