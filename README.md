@@ -229,6 +229,14 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+<br>2021-06-19<br>
+[Lesson29.Alfredのファイルアクションを使ってみる](https://github.com/KitanoTamotsu/fileaction) 
+<br>タイトルの通り<font color=red>Alfredのファイルアクション</font>のワークフローです
+<br>そもそも、Alfredはファイルオペレーションをサポートしていてワークフローがなくてもつかえます
+<br>ワークフローのオブジェクトでFile Actionがあったので試してみました
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 
