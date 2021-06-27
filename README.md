@@ -237,6 +237,15 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+<br>2021-06-27<br>
+[Lesson30.GitHubのHPを作ってみる](https://github.com/KitanoTamotsu/waza) 
+<br>Alfredのレッスンとして目新しいものはないです。。。
+<br>題材は、裏技サイトをパースして、3アイテムをランダムに表示させています。
+<br>トップページ以外もGitHubで作ってみました
+<br>サイトデザインをテーマから選んでmdファイルを置くだけでできそうです
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 
