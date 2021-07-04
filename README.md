@@ -1,6 +1,5 @@
 # Welcome to My GitHub Pages
-<font color=#ff0000>サブページを徐々にHP化しています。</font>
-<br><font color=#ff0000>HP化未済のページはGitHubにリンクします</font>
+<font color=red>サブページを徐々にHP化しています。<br>HP化未済のページはGitHubにリンクします</font>
 <br>
 <br>Alfredワークフローのサンプルを公開しています、というか、遊んでいます
 <br>私がAlfredやシェルスクリプト初心者なので、皆さんの参考になれば幸いです
