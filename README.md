@@ -248,6 +248,14 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>
+<br>2021-07-04<br>
+[Lesson31.NatureRemoでダイソン空気清浄機を使う](https://kitanotamotsu.github.io/dyson) 
+<br>Alfredのレッスンとして目新しいものはないです。。。
+<br>NatureRemoとの連携の第3作目となります。今回はダイソン空気清浄機
+<br>ダイソン謹製のスマホアプリもあるのですが、キーボード操作ができるAlfredで実装してみました
+<br>
+<br>
+<br>
 ## Tips
 ワークフロー作成時のもろもろです
 <br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 
