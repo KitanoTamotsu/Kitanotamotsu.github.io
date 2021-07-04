@@ -23,7 +23,7 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>2021-02-19<br>
-[Lesson3.選択中のテキストを{query}にする](https://github.com/KitanoTamotsu/tripadvisor) 
+[Lesson3.選択中のテキストを{query}にする](https://kitanotamotsu.github.io/tripadvisor) 
 <br>{query}というのはAlfred workflowの受け渡しです
 <br>選択中の文字列を受け渡すことで、ソースコードレスとなります
 <br>その受け渡したキーワードで<font color=red>Tripadvisor</font>を検索します
@@ -31,21 +31,21 @@ Alfredワークフローのサンプルを公開しています、というか�
 <br>
 <br>
 <br>2021-02-20<br>
-[Lesson4.シェルスクリプトでURLエンコードする](https://github.com/KitanoTamotsu/kakaku.comKeywordSearch) 
+[Lesson4.シェルスクリプトでURLエンコードする](https://kitanotamotsu.github.io/kakaku.comKeywordSearch) 
 <br><font color=red>価格コム</font>をキーワード検索します
 <br>nkfコマンドによる％エンコードを実装しています
 <br>
 <br>
 <br>
 <br>2021-02-20<br>
-[Lesson5.複数のパラメータを利用する](https://github.com/KitanoTamotsu/norikae) 
+[Lesson5.複数のパラメータを利用する](https://kitanotamotsu.github.io/norikae) 
 <br><font color=red>ジョルダンの乗り換え案内</font>を検索します
 <br>出発駅、到着駅、到着時間という複数のパラメータに対応しています
 <br>
 <br>
 <br>
 <br>2021-02-20<br>
-[Lesson6.Alfredの出力フォーマットを試してみる](https://github.com/KitanoTamotsu/testjson) 
+[Lesson6.Alfredの出力フォーマットを試してみる](https://kitanotamotsu.github.io/testjson) 
 <br>Tips3でgoogle suggestを解析したら、Alfredの出力xmlを使っていることがわかりました
 <br>Alfredのサンプルを見て真似してみました。JSON出力フォーマットを利用しています
 <br>
