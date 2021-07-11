@@ -258,7 +258,7 @@
 <br>
 <br>
 <br>2021-07-11<br>
-[Lesson32.ListFilterを使ってみる](https://kitanotamotsu.github.io/note) 
+[Lesson32.ListFilterを使ってみる](https://kitanotamotsu.github.io/noet) 
 <br>ListFilterのサンプルです。ScriptFilterと組み合わせて使っています
 <br>よろず投稿サイトの<font color=red>Note.com</font>をキーワード検索したり
 <br>人気タグやカテゴリーからアクセスしたりしています
