@@ -39,7 +39,7 @@
 <br>
 <br>
 <br>2021-02-20<br>
-[Lesson5.複数のパラメータを利用する](https://kitanotamotsu.github.io/norikae) 
+[Lesson5.複数のパラメータを利する](https://kitanotamotsu.github.io/norikae) 
 <br><font color=red>ジョルダンの乗り換え案内</font>を検索します
 <br>出発駅、到着駅、到着時間という複数のパラメータに対応しています
 <br>
@@ -254,6 +254,14 @@
 <br>Alfredのレッスンとして目新しいものはないです。。。
 <br>NatureRemoとの連携の第3作目となります。今回はダイソン空気清浄機
 <br>ダイソン謹製のスマホアプリもあるのですが、キーボード操作ができるAlfredで実装してみました
+<br>
+<br>
+<br>
+<br>2021-07-11<br>
+[Lesson3w.ListFilterを使ってみる](https://kitanotamotsu.github.io/note) 
+<br>ListFilterのサンプルです。ScriptFilterと組み合わせて使っています
+<br>よろず投稿サイトの<font color=red>Note.com</font>をキーワード検索したり
+<br>人気タグやカテゴリーからアクセスしたりしています
 <br>
 <br>
 <br>
