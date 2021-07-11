@@ -53,7 +53,7 @@
 <br>
 <br>
 <br>2021-02-27<br>
-[Lesson7.MXLをパースする](https://github.com/KitanoTamotsu/yahoo) 
+[Lesson7.MXLをパースする](https://kitanotamotsu.github.io/yahoo) 
 <br><font color=red>Yahoo!みんなの意見</font>のRSS表示ワークフローです
 <br>AlfredのJSON出力フォーマット出力の利用や
 <br>RSSファイル（XML)のパースと要素の抽出などを実装しています
@@ -61,14 +61,14 @@
 <br>
 <br>
 <br>2021-03-02<br>
-[Lesson8.RSSニュースを検索する](https://github.com/KitanoTamotsu/searchnews) 
+[Lesson8.RSSニュースを検索する](https://kitanotamotsu.github.io/searchnews) 
 <br><font color=red>Googleニュース</font>RSSのキーワード検索です
 <br>Lesson7の変形です
 <br>
 <br>
 <br>
 <br>2021-03-07<br>
-[Lesson9.ブラウザからURLを取得する](https://github.com/KitanoTamotsu/translate) 
+[Lesson9.ブラウザからURLを取得する](https://kitanotamotsu.github.io/translate) 
 <br>ブラウザで開いているページを翻訳します
 <br>コアは<font color=red>google translate</font>です
 <br>ブラウザから情報を取得するためシェルスクリプトからappleスクリプトを実行しています
