@@ -77,7 +77,7 @@
 <br>
 <br>
 <br>2021-03-13<br>
-[Lesson10.TVのリモコン](https://github.com/KitanoTamotsu/natureremo) 
+[Lesson10.TVのリモコン](https://kitanotamotsu.github.io/natureremo) 
 <br>Alfredの入力でTVを操作します。コアは<font color=red>NatureRemo</font>のAPIです
 <br>エキスポート禁止の変数の使い方のサンプルとなります
 <br>『TV ++』でテレビのボリュームが2メモリ上げれるので、なかなか面白いかも
@@ -86,14 +86,14 @@
 <br>
 <br>
 <br>2021-03-13<br>
-[Lesson11.ローカルファイルを利用する](https://github.com/KitanoTamotsu/avatar) 
+[Lesson11.ローカルファイルを利用する](https://kitanotamotsu.github.io/avatar) 
 <br><font color=red>Joe Schmoe</font>のAPIを利用してアバターを作成します
 <br>リターンされるアバター画像からhtmlを生成してローカルに保存します
 <br>
 <br>
 <br>
 <br>2021-03-14<br>
-[Lesson12.randomユーティリティを使用する](https://github.com/KitanoTamotsu/wikipedia) 
+[Lesson12.randomユーティリティを使用する](kitanotamotsu.github.io/wikipedia) 
 <br><font color=red>ウィキペディア</font>のおまかせ表示が興味のない記事ばかりという方におすすめ
 <br>カテゴリー内の記事をランダムに表示させることができます
 <br>randomユーティリティを利用したコードレスワークフローです
