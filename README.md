@@ -93,7 +93,7 @@
 <br>
 <br>
 <br>2021-03-14<br>
-[Lesson12.randomユーティリティを使用する](kitanotamotsu.github.io/wikipedia) 
+[Lesson12.randomユーティリティを使用する](https://kitanotamotsu.github.io/wikipedia) 
 <br><font color=red>ウィキペディア</font>のおまかせ表示が興味のない記事ばかりという方におすすめ
 <br>カテゴリー内の記事をランダムに表示させることができます
 <br>randomユーティリティを利用したコードレスワークフローです
