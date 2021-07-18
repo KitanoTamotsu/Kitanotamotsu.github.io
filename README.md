@@ -26,6 +26,7 @@
 <br>2021-02-19<br>
 [Lesson3.選択中のテキストを{query}にする](https://kitanotamotsu.github.io/tripadvisor) 
 <br>{query}というのはAlfred workflowの受け渡しです
+<br>シェルスクリプトを扱う方には受け渡しというより標準出力という方が通じるかな
 <br>選択中の文字列を受け渡すことで、ソースコードレスとなります
 <br>その受け渡したキーワードで<font color=red>Tripadvisor</font>を検索します
 <br>
@@ -101,7 +102,7 @@
 <br>
 <br>
 <br>2021-03-20<br>
-[Lesson13.randomユーティリティの選択肢を動的に設定する](https://github.com/KitanoTamotsu/favo) 
+[Lesson13.randomユーティリティの選択肢を動的に設定する](https://kitanotamotsu.github.io/favo) 
 <br>お気に入りのURLを保存しておき、好きな時にランダムに表示させるお<font color=red>遊びワークフロー</font>です
 <br>randomユーティリティのワードリストを外部ファイルから動的に作成しています
 <br>またNotificationに渡すメッセージをArg and Varsでセットしています
