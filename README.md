@@ -110,7 +110,7 @@
 <br>
 <br>
 <br>2021-03-20<br>
-[Lesson14.RSSやHTMLをパースする/出力する一覧をコントロールする](https://github.com/KitanoTamotsu/rssmania) 
+[Lesson14.RSSやHTMLをパースする/出力する一覧をコントロールする](https://kitanotamotsu.github.io/rssmania) 
 <br>多数のRSSをAlfredに出力するおもちゃ、その名も<font color=red>RSSマニア</font>です
 <br>パラメータの文字数で記事一覧のページ替えをコントロールしています
 <br>Alfredのインクリメンタルサーチと紐づいて、いろいろと応用が効く使い方だと思います
@@ -118,7 +118,7 @@
 <br>
 <br>
 <br>2021-03-21<br>
-[Lesson15.Arg and Varsオブジェクトの変数を動的にセットする](https://github.com/KitanoTamotsu/sourceviewer) 
+[Lesson15.Arg and Varsオブジェクトの変数を動的にセットする](https://kitanotamotsu.github.io/sourceviewer) 
 <br>RSSやHTMLのソースを表示させるツール<font color=red>『ソースビュー』</font>です
 <br>ソースはテキストファイルとして保管します
 <br>その際、ファイル名に使う日時をArg and Varsオブジェクトで設定しています
@@ -126,7 +126,7 @@
 <br>
 <br>
 <br>2021-03-21<br>
-[Lesson16.出力フォーマットへランダムにセットする](https://github.com/KitanoTamotsu/trivia) 
+[Lesson16.出力フォーマットへランダムにセットする](https://kitanotamotsu.github.io/trivia) 
 <br>伝説の雑学番組<font color=red>トリビアの泉</font>の雑学をランダムに表示します
 <br>ツールではインターネットアクセスしていませんが、元ネタはこちらです
 <br>https://www.noncky.net/trivia/
@@ -134,7 +134,7 @@
 <br>
 <br>
 <br>2021-03-28<br>
-[Lesson17.Alfred環境変数を使ってカスタマイズ設定を可能とする](https://github.com/KitanoTamotsu/nazonazo) 
+[Lesson17.Alfred環境変数を使ってカスタマイズ設定を可能とする](https://kitanotamotsu.github.io/nazonazo) 
 <br>なぞなぞを出題するお遊びワークフローです
 <br>1度に出題する問題数や、出題したなぞなぞを保存する場所をカスタマイズできます
 <br>なぞなぞサイト<font color=red>『なぞQ.com』</font>からの出題です
