@@ -1,10 +1,7 @@
 # Welcome to My GitHub Pages
-<font color=red>現在サブページを徐々にHP化しています<br>HP化未済のページはGitHubにリンクします</font>
-<br>
 <br>Alfredワークフローのサンプルを公開しています、というか、遊んでいます
 <br>私がAlfredやシェルスクリプト初心者なので、皆さんの参考になれば幸いです
 <br>各サンプルのreadmeに開発メモを記載しているのでご参考まで
-<br>
 <br>
 <br>
 ## Alfred Workflow Examples
@@ -142,14 +139,14 @@
 <br>
 <br>
 <br>2021-04-04<br>
-[Lesson18.別のワークフローを呼び出す](https://github.com/KitanoTamotsu/tv) 
+[Lesson18.別のワークフローを呼び出す](https://kitanotamotsu.github.io/tv) 
 <br>Lesson10で<font color=red>NatureRemo</font>のAPを使ってTVを操作するワークフローを作成しましたが
 <br>今回はその入口にTV番組表を追加しました
 <br>
 <br>
 <br>
 <br>2021-04-11<br>
-[Lesson19.ホットキーツールを作成する／後続フローを二股にする](https://github.com/KitanoTamotsu/quickterminal) 
+[Lesson19.ホットキーツールを作成する／後続フローを二股にする](https://kitanotamotsu.github.io/quickterminal) 
 <br>選択しているテキストによってURLをOPENしたり、
 <br>TERMINALで実行したり、ブラウザで検索したりします
 <br>勝手に<font color=red>『クイックターミナル』</font>と名付けました
@@ -160,21 +157,21 @@
 <br>
 <br>
 <br>2021-04-17<br>
-[Lesson20.テキストファイルを行ごとに配列に読み込む](https://github.com/KitanoTamotsu/meigen) 
+[Lesson20.テキストファイルを行ごとに配列に読み込む](https://kitanotamotsu.github.io/meigen) 
 <br>ネットサーフィンなどでみつけた名言を保存するツール<font color=red>『自分で集める名言集』</font>です
 <br>Alfredの機能ではないですが、テキストファイルの読み書きの小技を使っています
 <br>1行目に書き出したり、行単位に配列に読み込んだりしています
 <br>
 <br>
 <br>2021-04-24<br>
-[Lesson21.『アレクサ、うんちく教えて』をワークフローにする](https://github.com/KitanoTamotsu/unchiku) 
+[Lesson21.『アレクサ、うんちく教えて』をワークフローにする](https://kitanotamotsu.github.io/unchiku) 
 <br>お遊びで、<font color=red>アレクサ</font>の真似をしてみました
 <br>『うんちく教えて』でも、『雑学教えて』でも、『豆知識教えて』でも起動するマルチキーワード構造です
 <br>
 <br>
 <br>
 <br>2021-05-01<br>
-[Lesson22.スクリプトフィルターとキーワードインプットをハイブリッドにする](https://github.com/KitanoTamotsu/aircon) 
+[Lesson22.スクリプトフィルターとキーワードインプットをハイブリッドにする](https://kitanotamotsu.github.io/aircon) 
 <br><font color=red>NatureRemo</font>のAPIを利用してエアコンを操作します
 <br>Lesson10と18でテレビを操作しましたが、今回はエアコンです
 <br>室温や湿度を確認できます
@@ -182,7 +179,7 @@
 <br>
 <br>
 <br>2021-05-08<br>
-[Lesson23.スクリプトフィルターをワークフローの途中で使う](https://github.com/KitanoTamotsu/ameba) 
+[Lesson23.スクリプトフィルターをワークフローの途中で使う](https://kitanotamotsu.github.io/ameba) 
 <br>ランダムに<font color=red>amebaブログ</font>のRSSを読み込んで記事一覧を表示させます
 <br>Lesson14のRSSマニア等の変形です
 <br>スクリプトフィルターがワークフローの途中でも利用できることがわかったので
@@ -191,14 +188,14 @@
 <br>
 <br>
 <br>2021-05-16<br>
-[Lesson24.AlfredのJSON出力を10以上設定する／濁音・半濁音検索に対応する](https://github.com/KitanoTamotsu/recipe) 
+[Lesson24.AlfredのJSON出力を10以上設定する／濁音・半濁音検索に対応する](https://kitanotamotsu.github.io/recipe) 
 <br>NHKレシピサイト<font color=red>『きょうのみんなの料理』</font>の検索結果を表示させています
 <br>また、作成中に判明した、濁音・半濁音を含む検索にも対応しています
 <br>
 <br>
 <br>
 <br>2021-05-22<br>
-[Lesson25.スニペット起動を使ってみる](https://github.com/KitanoTamotsu/now) 
+[Lesson25.スニペット起動を使ってみる](https://kitanotamotsu.github.io/now) 
 <br>ワークフローのトリガーにスニペットがあったので気になって使ってみました
 <br>スクリプトフィルターとあわせて引数を受け取る機能を実装しています
 <br>スニペットのキーワード『.now』で<font color=red>整形した日時のバリエーション</font>を表示します
@@ -206,7 +203,7 @@
 <br>
 <br>
 <br>2021-05-29<br>
-[Lesson26.四字熟語であそんでみる](https://github.com/KitanoTamotsu/4ji) 
+[Lesson26.四字熟語であそんでみる](https://kitanotamotsu.github.io/4ji) 
 <br>今回はレッスンとして目新しいものはないです。。。
 <br>難読四字熟語をランダムに表示します
 <br>元ネタは、<font color=red>『Yattoke! - 小･中学生の学習サイト』の難読四字熟語一覧</font>です
@@ -215,7 +212,7 @@
 <br>
 <br>
 <br>2021-06-06<br>
-[Lesson27.ワークフローを放置する](https://github.com/KitanoTamotsu/sourcecutter) 
+[Lesson27.ワークフローを放置する](https://kitanotamotsu.github.io/sourcecutter) 
 <br>conditionalユーティリティで条件を設定するものの
 <br>一部の条件には後続を描かずに放置する例です
 <br>こんな使い方もできるのかなというノリで見てください
@@ -224,7 +221,7 @@
 <br>
 <br>
 <br>2021-06-12<br>
-[Lesson28.ワークフローをの分岐を統合する](https://github.com/KitanoTamotsu/plant) 
+[Lesson28.ワークフローをの分岐を統合する](https://kitanotamotsu.github.io/plant) 
 <br>ワークフローで分岐した2つの流れを、ひとつのオブジェクトで受け取ります
 <br>Alfredワークフローの柔軟性というか自由度の高さのサンプルです
 <br>日本植物生理学会のHP<font color=red>『みんなのひろば』の植物Q&A</font>を検索もしくはランダム表示します
@@ -232,7 +229,7 @@
 <br>
 <br>
 <br>2021-06-19<br>
-[Lesson29.Alfredのファイルアクションを使ってみる](https://github.com/KitanoTamotsu/fileaction) 
+[Lesson29.Alfredのファイルアクションを使ってみる](https://kitanotamotsu.github.io/fileaction) 
 <br>タイトルの通りAlfredのファイルアクションのワークフローです
 <br>Alfredはファイルオペレーションをサポートしていてワークフローなしでも便利に使えます
 <br>機能としては、画像ファイルを<font color=red>LuminarAI</font>で開くという単純なものです
