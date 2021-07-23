@@ -188,7 +188,7 @@
 <br>
 <br>
 <br>2021-05-16<br>
-[Lesson24.AlfredのJSON出力を10以上設定する／濁音・半濁音検索に対応する](https://kitanotamotsu.github.io/recipe) 
+[Lesson24.Alfredの出力を10件以上に設定する／濁音・半濁音検索に対応する](https://kitanotamotsu.github.io/recipe) 
 <br>NHKレシピサイト<font color=red>『きょうのみんなの料理』</font>の検索結果を表示させています
 <br>また、作成中に判明した、濁音・半濁音を含む検索にも対応しています
 <br>
