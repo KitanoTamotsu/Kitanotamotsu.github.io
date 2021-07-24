@@ -9,7 +9,7 @@
 | | |
 |:--|:--|
 | 2021-02-14 | [Lesson1.初めてのワークフロー](https://kitanotamotsu.github.io/googlesuggest)   |
-|<a href="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"><img width="100"  src="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"></a>　|ソースコードレス・ワークフロー。練習作です。Githubの練習も兼ねて作ってみました。サンプルワークフローのGoogle SuggestをHOTKEYで起動します|
+|<a href="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"><img width="200"  src="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"></a>　|ソースコードレス・ワークフロー。練習作です。Githubの練習も兼ねて作ってみました。サンプルワークフローのGoogle SuggestをHOTKEYで起動します|
 
 <br>
 ## Alfred Workflow Examples
