@@ -10,6 +10,10 @@
 |:--|:--|
 |<a href="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"><img width="200"  src="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"></a>　|ソースコードレス・ワークフロー。練習作です。Githubの練習も兼ねて作ってみました。サンプルワークフローのGoogle SuggestをHOTKEYで起動します|
 
+| 2021-02-14 | Lesson2.入力パラメータを利用してURLを組み立てる](https://kitanotamotsu.github.io/googletimeline)  |
+|:--|:--|
+|<a href="https://user-images.githubusercontent.com/40127279/126853536-aaa978e7-db52-446e-9942-73c0781e7ef7.png"><img width="200" src="https://user-images.githubusercontent.com/40127279/126853536-aaa978e7-db52-446e-9942-73c0781e7ef7.png"></a>　|<font color=red>Google Timeline</font>を日付指定で開きます。Alfredとしてはパラメータを受け取り、URLを生成します。URLのパラメータを設定する最もプリミティブなワークフローの例キーワードが英語でも日本語でも”発火”します。勝手にバイリンガル起動と呼んでいます|
+
 <br>
 ## Alfred Workflow Examples
 <br>2021-02-14<br>
