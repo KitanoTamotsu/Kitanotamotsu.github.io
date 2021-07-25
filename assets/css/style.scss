@@ -4,7 +4,12 @@
 @import 'jekyll-theme-leap-day';
 
 table,th { border: 0px }
+
 td { 
   border: 1px #ffcc00 solid; 
   background-color: #fafad2;
 }
+
+table {
+  box-shadow: 2px 2px 4px gray;
+ }
