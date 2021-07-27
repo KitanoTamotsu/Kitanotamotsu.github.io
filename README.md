@@ -3,6 +3,8 @@
 <br>私がAlfredやシェルスクリプト初心者なので、皆さんの参考になれば幸いです
 <br>各サンプルのreadmeに開発メモを記載しているのでご参考まで
 <br>
+<br> テーブルレイアウトに変更中です
+<br>
 
 ## Alfred Workflow Examples
 
