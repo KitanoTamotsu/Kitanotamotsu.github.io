@@ -4,27 +4,13 @@
 <br>各サンプルのreadmeに開発メモを記載しているのでご参考まで
 <br>
 
-## テーブルレイアウトの実験中
+## Alfred Workflow Examples
 
 |2021/02/14| [Lesson1.初めてのワークフロー](https://kitanotamotsu.github.io/googlesuggest)   |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"><img width="150"  src="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"></a>|ソースコードレス・ワークフロー。練習作です。Githubの練習も兼ねて作ってみました。サンプルワークフローのGoogle SuggestをHOTKEYで起動します|
+<br>
 |2021/02/14| [Lesson2.入力パラメータを利用してURLを組み立てる](https://kitanotamotsu.github.io/googletimeline)  |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/126853536-aaa978e7-db52-446e-9942-73c0781e7ef7.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853536-aaa978e7-db52-446e-9942-73c0781e7ef7.png"></a>|<font color=red>Google Timeline</font>を日付指定で開きます。Alfredとしてはパラメータを受け取り、URLを生成します。URLのパラメータを設定する最もプリミティブなワークフローの例キーワードが英語でも日本語でも”発火”します。勝手にバイリンガル起動と呼んでいます|
-
-<br>
-## Alfred Workflow Examples
-<br>2021-02-14<br>
-[Lesson1.初めてのワークフロー](https://kitanotamotsu.github.io/googlesuggest) 
-<br>ソースコードレス・ワークフロー。練習作です。Githubの練習も兼ねて作ってみました
-<br>サンプルワークフローのGoogle SuggestをHOTKEYで起動します
-<br>
-<br>
-<br>2021-02-14<br>
-[Lesson2.入力パラメータを利用してURLを組み立てる](https://kitanotamotsu.github.io/googletimeline) 
-<br><font color=red>Google Timeline</font>を日付指定で開きます。
-<br>Alfredとしてはパラメータを受け取り、URLを生成します。
-<br>URLのパラメータを設定する最もプリミティブなワークフローの例
-<br>キーワードが英語でも日本語でも”発火”します。勝手にバイリンガル起動と呼んでいます
 <br>
 <br>
 <br>
