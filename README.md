@@ -102,7 +102,7 @@
 |2021/07/04| [Lesson31.NatureRemoでダイソン空気清浄機を使う](https://kitanotamotsu.github.io/dyson) |
 | |Alfredのレッスンとして目新しいものはないです。。。NatureRemoとの連携の第3作目となります。今回はダイソン空気清浄機。ダイソン謹製のスマホアプリもあるのですが、キーボード操作ができるAlfredで実装してみました|
 
-|2021/07/11| [Lesson32.ListFilterを使ってみる](https://kitanotamotsu.github.io/noet) | 
+|2021/07/11| [Lesson32.ListFilterを使ってみる](https://kitanotamotsu.github.io/noet) |
 | |ListFilterのサンプルです。ScriptFilterと組み合わせて使っています。よろず投稿サイトの<font color=red>Note.com</font>をキーワード検索したり。人気タグやカテゴリーからアクセスしたりしています |
 <br>
 <br>
