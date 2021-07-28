@@ -72,7 +72,7 @@
 |2021/04/24| [Lesson21.『アレクサ、うんちく教えて』をワークフローにする](https://kitanotamotsu.github.io/unchiku) |
 | |お遊びで、<font color=red>アレクサ</font>の真似をしてみました。『うんちく教えて』でも、『雑学教えて』でも、『豆知識教えて』でも起動するマルチキーワード構造です |
 
-|2021/05/01| [Lesson22.スクリプトフィルターとキーワードインプットをハイブリッドにする](https://kitanotamotsu.github.io/aircon) |
+|2021/05/01| [Lesson22.スクリプトフィルターとキーワードをハイブリッドにする](https://kitanotamotsu.github.io/aircon) |
 | |<font color=red>NatureRemo</font>のAPIを利用してエアコンを操作します。Lesson10と18でテレビを操作しましたが、今回はエアコンです。室温や湿度を確認できます|
 
 |2021/05/08| [Lesson23.スクリプトフィルターをワークフローの途中で使う](https://kitanotamotsu.github.io/ameba) |
