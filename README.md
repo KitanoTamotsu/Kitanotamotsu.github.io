@@ -18,7 +18,7 @@
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/126853884-380f4324-51d5-4dc3-908d-4c647407b38c.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853884-380f4324-51d5-4dc3-908d-4c647407b38c.png"></a>|{query}というのはAlfred workflowの受け渡しです。シェルスクリプトを扱う方には受け渡しというより標準出力という方が通じるかな。選択中の文字列を受け渡すことで、ソースコードレスとなります。その受け渡したキーワードで<font color=red>Tripadvisor</font>を検索します|
 
 |2021/02/20| [Lesson4.シェルスクリプトでURLエンコードする](https://kitanotamotsu.github.io/kakaku.comKeywordSearch) |
-| |<font color=red>価格コム</font>をキーワード検索します。nkfコマンドによる％エンコードを実装しています |
+| <a href="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"></a> |<font color=red>価格コム</font>をキーワード検索します。nkfコマンドによる％エンコードを実装しています |
 
 |2021/02/20| [Lesson5.複数のパラメータを利する](https://kitanotamotsu.github.io/norikae) |
 | |<font color=red>ジョルダンの乗り換え案内</font>を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています |
