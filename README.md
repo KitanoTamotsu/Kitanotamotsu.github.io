@@ -18,33 +18,24 @@
 |<a href="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"></a>|<font color=red>価格コム</font>をキーワード検索します。nkfコマンドによる％エンコードを実装しています |
 |2021/02/20| [Lesson5.複数のパラメータを利する](https://kitanotamotsu.github.io/norikae) |
 |<a href="https://user-images.githubusercontent.com/40127279/126855661-db2256c7-bfd3-4c8c-bc3d-3bb1d03bb9df.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126855661-db2256c7-bfd3-4c8c-bc3d-3bb1d03bb9df.png"></a>|<font color=red>ジョルダンの乗り換え案内</font>を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています |
-
 |2021/02/20| [Lesson6.Alfredの出力フォーマットを試してみる](https://kitanotamotsu.github.io/testjson) |
-| |Tips3でgoogle suggestを解析したら、Alfredの出力xmlを使っていることがわかりました。Alfredのサンプルを見て真似してみました。JSON出力フォーマットを利用しています |
-
+|<a href="https://user-images.githubusercontent.com/40127279/126855770-e0e7f392-8559-4e29-be92-1673beb72369.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126855770-e0e7f392-8559-4e29-be92-1673beb72369.png"></a>|Tips3でgoogle suggestを解析したら、Alfredの出力xmlを使っていることがわかりました。Alfredのサンプルを見て真似してみました。JSON出力フォーマットを利用しています |
 |2021/02/27| [Lesson7.MXLをパースする](https://kitanotamotsu.github.io/yahoo) |
-| |<font color=red>Yahoo!みんなの意見</font>のRSS表示ワークフローです。AlfredのJSON出力フォーマット出力の利用やRSSファイル（XML)のパースと要素の抽出などを実装しています |
-
+|<a href="https://user-images.githubusercontent.com/40127279/126856670-b705deb1-6ce7-4633-8eff-345b743c9567.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126856670-b705deb1-6ce7-4633-8eff-345b743c9567.png"></a>|<font color=red>Yahoo!みんなの意見</font>のRSS表示ワークフローです。AlfredのJSON出力フォーマット出力の利用やRSSファイル（XML)のパースと要素の抽出などを実装しています |
 |2021/03/02| [Lesson8.RSSニュースを検索する](https://kitanotamotsu.github.io/searchnews) |
-| |<font color=red>Googleニュース</font>RSSのキーワード検索です。Lesson7の変形です|
-
+|<a href="https://user-images.githubusercontent.com/40127279/126856776-7d1f59d4-c968-4cd9-b55d-142ce88fcbb4.png"><img width="150"  src="https://user-images.githubusercontent.com/40127279/126856776-7d1f59d4-c968-4cd9-b55d-142ce88fcbb4.png"></a>|<font color=red>Googleニュース</font>RSSのキーワード検索です。Lesson7の変形です|
 |2021/03/07| [Lesson9.ブラウザからURLを取得する](https://kitanotamotsu.github.io/translate) |
-| |ブラウザで開いているページを翻訳します。コアは<font color=red>google translate</font>です。ブラウザから情報を取得するためシェルスクリプトからappleスクリプトを実行しています。もとはconditionalユーティリティとクリップボードを扱うサンプルとして作ったものです|
-
+|<a href="https://user-images.githubusercontent.com/40127279/126857141-8dfc15db-5f1c-41a6-8c2a-5abdaa204d69.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126857141-8dfc15db-5f1c-41a6-8c2a-5abdaa204d69.png"></a>|ブラウザで開いているページを翻訳します。コアは<font color=red>google translate</font>です。ブラウザから情報を取得するためシェルスクリプトからappleスクリプトを実行しています。もとはconditionalユーティリティとクリップボードを扱うサンプルとして作ったものです|
 |2021/03/13| [Lesson10.TVのリモコン](https://kitanotamotsu.github.io/natureremo) |
-| |Alfredの入力でTVを操作します。コアは<font color=red>NatureRemo</font>のAPIです。エキスポート禁止の変数の使い方のサンプルとなります。『TV ++』でテレビのボリュームが2メモリ上げれるので、なかなか面白いかも。もちろんスクリプトを改造すれば、TV以外のリモコンにもなりますよ|
-
+|<a href="https://user-images.githubusercontent.com/40127279/126858838-6207222c-1d9c-45d6-85e1-86e0303f80a9.png"><img width="150"  src="https://user-images.githubusercontent.com/40127279/126858838-6207222c-1d9c-45d6-85e1-86e0303f80a9.png"></a>|Alfredの入力でTVを操作します。コアは<font color=red>NatureRemo</font>のAPIです。エキスポート禁止の変数の使い方のサンプルとなります。『TV ++』でテレビのボリュームが2メモリ上げれるので、なかなか面白いかも。もちろんスクリプトを改造すれば、TV以外のリモコンにもなりますよ|
 |2021/03/13| [Lesson11.ローカルファイルを利用する](https://kitanotamotsu.github.io/avatar) |
-| |<font color=red>Joe Schmoe</font>のAPIを利用してアバターを作成します。リターンされるアバター画像からhtmlを生成してローカルに保存します |
-
+|<a href="https://user-images.githubusercontent.com/40127279/126859618-eabe4143-8516-4786-a969-543967259814.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126859618-eabe4143-8516-4786-a969-543967259814.png"></a>|<font color=red>Joe Schmoe</font>のAPIを利用してアバターを作成します。リターンされるアバター画像からhtmlを生成してローカルに保存します |
 |2021/03/14| [Lesson12.randomユーティリティを使用する](https://kitanotamotsu.github.io/wikipedia) |
-| |<font color=red>ウィキペディア</font>のおまかせ表示が興味のない記事ばかりという方におすすめ。カテゴリー内の記事をランダムに表示させることができます。randomユーティリティを利用したコードレスワークフローです|
-
+|<a href="https://user-images.githubusercontent.com/40127279/126860198-1e1e98b5-af42-42ea-b3b7-4ca9d06ae5a4.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126860198-1e1e98b5-af42-42ea-b3b7-4ca9d06ae5a4.png"></a>|<font color=red>ウィキペディア</font>のおまかせ表示が興味のない記事ばかりという方におすすめ。カテゴリー内の記事をランダムに表示させることができます。randomユーティリティを利用したコードレスワークフローです|
 |2021/03/20| [Lesson13.randomユーティリティの選択肢を動的に設定する](https://kitanotamotsu.github.io/favo) |
-| |お気に入りのURLを保存しておき、好きな時にランダムに表示させるお<font color=red>遊びワークフロー</font>です。randomユーティリティのワードリストを外部ファイルから動的に作成しています。またNotificationに渡すメッセージをArg and Varsでセットしています|
-
+|<a href="https://user-images.githubusercontent.com/40127279/126867726-a3dc3141-44b1-476e-924a-a9eb8b971833.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126867726-a3dc3141-44b1-476e-924a-a9eb8b971833.png"></a>|お気に入りのURLを保存しておき、好きな時にランダムに表示させるお<font color=red>遊びワークフロー</font>です。randomユーティリティのワードリストを外部ファイルから動的に作成しています。またNotificationに渡すメッセージをArg and Varsでセットしています|
 |2021/03/20| [Lesson14.RSSやHTMLをパースする/出力する一覧をコントロールする](https://kitanotamotsu.github.io/rssmania) |
-| |多数のRSSをAlfredに出力するおもちゃ、その名も<font color=red>RSSマニア</font>です。パラメータの文字数で記事一覧のページ替えをコントロールしています。Alfredのインクリメンタルサーチと紐づいて、いろいろと応用が効く使い方だと思います |
+|<a href="https://user-images.githubusercontent.com/40127279/126859172-605ef5f8-5826-44a4-a1ce-50f9db25e380.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126859172-605ef5f8-5826-44a4-a1ce-50f9db25e380.png"></a>|多数のRSSをAlfredに出力するおもちゃ、その名も<font color=red>RSSマニア</font>です。パラメータの文字数で記事一覧のページ替えをコントロールしています。Alfredのインクリメンタルサーチと紐づいて、いろいろと応用が効く使い方だと思います |
 
 |2021/03/21| [Lesson15.Arg and Varsオブジェクトの変数を動的にセットする](https://kitanotamotsu.github.io/sourceviewer) |
 | |RSSやHTMLのソースを表示させるツール<font color=red>『ソースビュー』</font>です。ソースはテキストファイルとして保管します。その際、ファイル名に使う日時をArg and Varsオブジェクトで設定しています|
