@@ -59,7 +59,6 @@
 |2021/05/22| [Lesson25.スニペット起動を使ってみる](https://kitanotamotsu.github.io/now) |
 |<a href="https://user-images.githubusercontent.com/40127279/127757168-373aefbc-774f-45c8-ad0c-876a60a02db5.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757168-373aefbc-774f-45c8-ad0c-876a60a02db5.png"></a>|ワークフローのトリガーにスニペットがあったので気になって使ってみました。スクリプトフィルターとあわせて引数を受け取る機能を実装しています。スニペットのキーワード『.now』で<font color=red>整形した日時のバリエーション</font>を表示します|
 |2021/05/29| [Lesson26.四字熟語であそんでみる](https://kitanotamotsu.github.io/4ji) |
-
 |<a href="https://user-images.githubusercontent.com/40127279/127757593-1d2e5973-0fa3-461a-a40c-50384ba07e9d.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757593-1d2e5973-0fa3-461a-a40c-50384ba07e9d.png"></a>|今回はレッスンとして目新しいものはないです。。。難読四字熟語をランダムに表示します。元ネタは、<font color=red>『Yattoke! - 小･中学生の学習サイト』の難読四字熟語一覧</font>です。暇つぶしにどうぞ|
 |2021/06/06| [Lesson27.ワークフローを放置する](https://kitanotamotsu.github.io/sourcecutter) |
 |<a href="https://user-images.githubusercontent.com/40127279/127757659-6d253032-6f97-4433-801e-2773f3ef7e72.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757659-6d253032-6f97-4433-801e-2773f3ef7e72.png"></a>|conditionalユーティリティで条件を設定するものの一部の条件には後続を描かずに放置する例です。こんな使い方もできるのかなというノリで見てください。題材としては、<font color=red>テキストのn文字目やn行目を検索するツール</font>を作成しています |
@@ -73,6 +72,7 @@
 |<a href="https://user-images.githubusercontent.com/40127279/127757986-ab910290-6835-4ddf-bc12-3cbb324bb8d3.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757986-ab910290-6835-4ddf-bc12-3cbb324bb8d3.png"></a>|Alfredのレッスンとして目新しいものはないです。。。NatureRemoとの連携の第3作目となります。今回はダイソン空気清浄機。ダイソン謹製のスマホアプリもあるのですが、キーボード操作ができるAlfredで実装してみました|
 |2021/07/11| [Lesson32.ListFilterを使ってみる](https://kitanotamotsu.github.io/noet) |
 |<a href="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"></a>|ListFilterのサンプルです。ScriptFilterと組み合わせて使っています。よろず投稿サイトの<font color=red>Note.com</font>をキーワード検索したり。人気タグやカテゴリーからアクセスしたりしています |
+
 <br>
 <br>
 <br>
