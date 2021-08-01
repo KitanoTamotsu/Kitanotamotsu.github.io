@@ -21,7 +21,7 @@
 | <a href="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"></a> |<font color=red>価格コム</font>をキーワード検索します。nkfコマンドによる％エンコードを実装しています |
 
 |2021/02/20| [Lesson5.複数のパラメータを利する](https://kitanotamotsu.github.io/norikae) |
-| |<font color=red>ジョルダンの乗り換え案内</font>を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています |
+ | <a href="https://user-images.githubusercontent.com/40127279/126855661-db2256c7-bfd3-4c8c-bc3d-3bb1d03bb9df.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126855661-db2256c7-bfd3-4c8c-bc3d-3bb1d03bb9df.png"></a> |<font color=red>ジョルダンの乗り換え案内</font>を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています |
 
 |2021/02/20| [Lesson6.Alfredの出力フォーマットを試してみる](https://kitanotamotsu.github.io/testjson) |
 | |Tips3でgoogle suggestを解析したら、Alfredの出力xmlを使っていることがわかりました。Alfredのサンプルを見て真似してみました。JSON出力フォーマットを利用しています |
