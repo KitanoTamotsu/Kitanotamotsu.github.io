@@ -36,7 +36,6 @@
 |<a href="https://user-images.githubusercontent.com/40127279/126867726-a3dc3141-44b1-476e-924a-a9eb8b971833.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126867726-a3dc3141-44b1-476e-924a-a9eb8b971833.png"></a>|お気に入りのURLを保存しておき、好きな時にランダムに表示させるお<font color=red>遊びワークフロー</font>です。randomユーティリティのワードリストを外部ファイルから動的に作成しています。またNotificationに渡すメッセージをArg and Varsでセットしています|
 |2021/03/20| [Lesson14.RSSやHTMLをパースする/出力する一覧をコントロールする](https://kitanotamotsu.github.io/rssmania) |
 |<a href="https://user-images.githubusercontent.com/40127279/126859172-605ef5f8-5826-44a4-a1ce-50f9db25e380.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126859172-605ef5f8-5826-44a4-a1ce-50f9db25e380.png"></a>|多数のRSSをAlfredに出力するおもちゃ、その名も<font color=red>RSSマニア</font>です。パラメータの文字数で記事一覧のページ替えをコントロールしています。Alfredのインクリメンタルサーチと紐づいて、いろいろと応用が効く使い方だと思います |
-
 |2021/03/21| [Lesson15.Arg and Varsオブジェクトの変数を動的にセットする](https://kitanotamotsu.github.io/sourceviewer) |
 |<a href="https://user-images.githubusercontent.com/40127279/127756168-8158e17f-0cc9-4864-a9b5-d46e695866aa.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756168-8158e17f-0cc9-4864-a9b5-d46e695866aa.png"></a>|RSSやHTMLのソースを表示させるツール<font color=red>『ソースビュー』</font>です。ソースはテキストファイルとして保管します。その際、ファイル名に使う日時をArg and Varsオブジェクトで設定しています|
 |2021/03/21| [Lesson16.出力フォーマットへランダムにセットする](https://kitanotamotsu.github.io/trivia) |
@@ -49,6 +48,7 @@
 |<a href="https://user-images.githubusercontent.com/40127279/127756499-9981be1f-809f-4a91-a3e9-c5545eaaa0da.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756499-9981be1f-809f-4a91-a3e9-c5545eaaa0da.png"></a>|選択しているテキストによってURLをOPENしたり、。TERMINALで実行したり、ブラウザで検索したりします。勝手に<font color=red>『クイックターミナル』</font>と名付けました。Hotkey起動時の選択テキストの連携や、Colditionalオブジェクトのgrep判定の機能をつかいます。ターミナルでの実行とクリップボードへのコピーは後続フローを二股にして非同期に処理しています |
 |2021/04/17| [Lesson20.テキストファイルを行ごとに配列に読み込む](https://kitanotamotsu.github.io/meigen) |
 |<a href="https://user-images.githubusercontent.com/40127279/127756559-c55c4092-a02f-4505-b4ba-6aa495be6b12.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756559-c55c4092-a02f-4505-b4ba-6aa495be6b12.png"></a>|ネットサーフィンなどでみつけた名言を保存するツール<font color=red>『自分で集める名言集』</font>です。Alfredの機能ではないですが、テキストファイルの読み書きの小技を使っています。1行目に書き出したり、行単位に配列に読み込んだりしています |
+
 |2021/04/24| [Lesson21.『アレクサ、うんちく教えて』をワークフローにする](https://kitanotamotsu.github.io/unchiku) |
 |<a href="https://user-images.githubusercontent.com/40127279/127756657-844234f8-22e1-4109-9f9b-44d84bb8a50f.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756657-844234f8-22e1-4109-9f9b-44d84bb8a50f.png"></a>|お遊びで、<font color=red>アレクサ</font>の真似をしてみました。『うんちく教えて』でも、『雑学教えて』でも、『豆知識教えて』でも起動するマルチキーワード構造です |
 |2021/05/01| [Lesson22.スクリプトフィルターとキーワードをハイブリッドにする](https://kitanotamotsu.github.io/aircon) |
