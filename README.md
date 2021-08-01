@@ -1,7 +1,7 @@
 # Welcome to My GitHub Pages
 <br>Alfredワークフローのサンプルを公開しています、というか、遊んでいます
 <br>私がAlfredやシェルスクリプト初心者なので、皆さんの参考になれば幸いです
-<br>各サンプルのreadmeに開発メモを記載しているのでご参考まで
+<br>各レッスンの開発メモを残していますので、青字のリンクから飛んでみてください
 
 ## Alfred Workflow Examples
 
