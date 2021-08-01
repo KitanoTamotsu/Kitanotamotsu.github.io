@@ -18,10 +18,10 @@
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/126853884-380f4324-51d5-4dc3-908d-4c647407b38c.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853884-380f4324-51d5-4dc3-908d-4c647407b38c.png"></a>|{query}というのはAlfred workflowの受け渡しです。シェルスクリプトを扱う方には受け渡しというより標準出力という方が通じるかな。選択中の文字列を受け渡すことで、ソースコードレスとなります。その受け渡したキーワードで<font color=red>Tripadvisor</font>を検索します|
 
 |2021/02/20| [Lesson4.シェルスクリプトでURLエンコードする](https://kitanotamotsu.github.io/kakaku.comKeywordSearch) |
-| <a href="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"></a> |<font color=red>価格コム</font>をキーワード検索します。nkfコマンドによる％エンコードを実装しています |
+|<a href="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"></a>|<font color=red>価格コム</font>をキーワード検索します。nkfコマンドによる％エンコードを実装しています |
 
 |2021/02/20| [Lesson5.複数のパラメータを利する](https://kitanotamotsu.github.io/norikae) |
- | <a href="https://user-images.githubusercontent.com/40127279/126855661-db2256c7-bfd3-4c8c-bc3d-3bb1d03bb9df.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126855661-db2256c7-bfd3-4c8c-bc3d-3bb1d03bb9df.png"></a> |<font color=red>ジョルダンの乗り換え案内</font>を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています |
+|<a href="https://user-images.githubusercontent.com/40127279/126855661-db2256c7-bfd3-4c8c-bc3d-3bb1d03bb9df.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126855661-db2256c7-bfd3-4c8c-bc3d-3bb1d03bb9df.png"></a>|<font color=red>ジョルダンの乗り換え案内</font>を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています |
 
 |2021/02/20| [Lesson6.Alfredの出力フォーマットを試してみる](https://kitanotamotsu.github.io/testjson) |
 | |Tips3でgoogle suggestを解析したら、Alfredの出力xmlを使っていることがわかりました。Alfredのサンプルを見て真似してみました。JSON出力フォーマットを利用しています |
