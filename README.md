@@ -48,7 +48,6 @@
 |<a href="https://user-images.githubusercontent.com/40127279/127756499-9981be1f-809f-4a91-a3e9-c5545eaaa0da.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756499-9981be1f-809f-4a91-a3e9-c5545eaaa0da.png"></a>|選択しているテキストによってURLをOPENしたり、。TERMINALで実行したり、ブラウザで検索したりします。勝手に<font color=red>『クイックターミナル』</font>と名付けました。Hotkey起動時の選択テキストの連携や、Colditionalオブジェクトのgrep判定の機能をつかいます。ターミナルでの実行とクリップボードへのコピーは後続フローを二股にして非同期に処理しています |
 |2021/04/17| [Lesson20.テキストファイルを行ごとに配列に読み込む](https://kitanotamotsu.github.io/meigen) |
 |<a href="https://user-images.githubusercontent.com/40127279/127756559-c55c4092-a02f-4505-b4ba-6aa495be6b12.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756559-c55c4092-a02f-4505-b4ba-6aa495be6b12.png"></a>|ネットサーフィンなどでみつけた名言を保存するツール<font color=red>『自分で集める名言集』</font>です。Alfredの機能ではないですが、テキストファイルの読み書きの小技を使っています。1行目に書き出したり、行単位に配列に読み込んだりしています |
-
 |2021/04/24| [Lesson21.『アレクサ、うんちく教えて』をワークフローにする](https://kitanotamotsu.github.io/unchiku) |
 |<a href="https://user-images.githubusercontent.com/40127279/127756657-844234f8-22e1-4109-9f9b-44d84bb8a50f.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756657-844234f8-22e1-4109-9f9b-44d84bb8a50f.png"></a>|お遊びで、<font color=red>アレクサ</font>の真似をしてみました。『うんちく教えて』でも、『雑学教えて』でも、『豆知識教えて』でも起動するマルチキーワード構造です |
 |2021/05/01| [Lesson22.スクリプトフィルターとキーワードをハイブリッドにする](https://kitanotamotsu.github.io/aircon) |
@@ -60,6 +59,7 @@
 |2021/05/22| [Lesson25.スニペット起動を使ってみる](https://kitanotamotsu.github.io/now) |
 |<a href="https://user-images.githubusercontent.com/40127279/127757168-373aefbc-774f-45c8-ad0c-876a60a02db5.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757168-373aefbc-774f-45c8-ad0c-876a60a02db5.png"></a>|ワークフローのトリガーにスニペットがあったので気になって使ってみました。スクリプトフィルターとあわせて引数を受け取る機能を実装しています。スニペットのキーワード『.now』で<font color=red>整形した日時のバリエーション</font>を表示します|
 |2021/05/29| [Lesson26.四字熟語であそんでみる](https://kitanotamotsu.github.io/4ji) |
+
 |<a href="https://user-images.githubusercontent.com/40127279/127757593-1d2e5973-0fa3-461a-a40c-50384ba07e9d.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757593-1d2e5973-0fa3-461a-a40c-50384ba07e9d.png"></a>|今回はレッスンとして目新しいものはないです。。。難読四字熟語をランダムに表示します。元ネタは、<font color=red>『Yattoke! - 小･中学生の学習サイト』の難読四字熟語一覧</font>です。暇つぶしにどうぞ|
 |2021/06/06| [Lesson27.ワークフローを放置する](https://kitanotamotsu.github.io/sourcecutter) |
 |<a href="https://user-images.githubusercontent.com/40127279/127757659-6d253032-6f97-4433-801e-2773f3ef7e72.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757659-6d253032-6f97-4433-801e-2773f3ef7e72.png"></a>|conditionalユーティリティで条件を設定するものの一部の条件には後続を描かずに放置する例です。こんな使い方もできるのかなというノリで見てください。題材としては、<font color=red>テキストのn文字目やn行目を検索するツール</font>を作成しています |
