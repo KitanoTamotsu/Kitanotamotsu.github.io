@@ -65,7 +65,7 @@
 |2021/06/12| [Lesson28.ワークフローをの分岐を統合する](https://kitanotamotsu.github.io/plant) |
 |<a href="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png"></a>|ワークフローで分岐した2つの流れを、ひとつのオブジェクトで受け取ります。Alfredワークフローの柔軟性というか自由度の高さのサンプルです。日本植物生理学会のHP<font color=red>『みんなのひろば』の植物Q&A</font>を検索もしくはランダム表示します |
 |2021/06/19| [Lesson29.Alfredのファイルアクションを使ってみる](https://kitanotamotsu.github.io/fileaction) |
-| |タイトルの通りAlfredのファイルアクションのワークフローです。Alfredはファイルオペレーションをサポートしていてワークフローなしでも便利に使えます。機能としては、画像ファイルを<font color=red>LuminarAI</font>で開くという単純なものです|
+|<a href="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png"></a>|タイトルの通りAlfredのファイルアクションのワークフローです。Alfredはファイルオペレーションをサポートしていてワークフローなしでも便利に使えます。機能としては、画像ファイルを<font color=red>LuminarAI</font>で開くという単純なものです|
 |2021/06/27| [Lesson30.GitHubのHPを作ってみる](https://kitanotamotsu.github.io/waza) |
 |<a href="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png"></a>|Alfredのレッスンとして目新しいものはないです。。。題材は、裏技サイトをパースして、3アイテムをランダムに表示させています。トップページ以外もGitHubで作ってみました。サイトデザインをテーマから選んでmdファイルを置くだけでできそうですね。ダウンロードをリリースとして管理する方が良さそうです。以前のレッスンも徐々に修正していきます。|
 |2021/07/04| [Lesson31.NatureRemoでダイソン空気清浄機を使う](https://kitanotamotsu.github.io/dyson) |
