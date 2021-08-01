@@ -10,16 +10,12 @@
 
 |2021/02/14| [Lesson1.初めてのワークフロー](https://kitanotamotsu.github.io/googlesuggest)   |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"><img width="150"  src="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"></a>|ソースコードレス・ワークフロー。練習作です。Githubの練習も兼ねて作ってみました。サンプルワークフローのGoogle SuggestをHOTKEYで起動します|
-
 |2021/02/14| [Lesson2.入力パラメータを利用してURLを組み立てる](https://kitanotamotsu.github.io/googletimeline)  |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/126853536-aaa978e7-db52-446e-9942-73c0781e7ef7.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853536-aaa978e7-db52-446e-9942-73c0781e7ef7.png"></a>|<font color=red>Google Timeline</font>を日付指定で開きます。Alfredとしてパラメータを受け取り、URLを生成します。URLのパラメータを設定する最もプリミティブなワークフローの例キーワードが英語でも日本語でも”発火”します。勝手にバイリンガル起動と呼んでいます|
-
 |2021/02/19| [Lesson3.選択中のテキストを{query}にする](https://kitanotamotsu.github.io/tripadvisor) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/126853884-380f4324-51d5-4dc3-908d-4c647407b38c.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853884-380f4324-51d5-4dc3-908d-4c647407b38c.png"></a>|{query}というのはAlfred workflowの受け渡しです。シェルスクリプトを扱う方には受け渡しというより標準出力という方が通じるかな。選択中の文字列を受け渡すことで、ソースコードレスとなります。その受け渡したキーワードで<font color=red>Tripadvisor</font>を検索します|
-
 |2021/02/20| [Lesson4.シェルスクリプトでURLエンコードする](https://kitanotamotsu.github.io/kakaku.comKeywordSearch) |
 |<a href="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126853658-61b24681-679d-44c6-9026-a83834ad9570.png"></a>|<font color=red>価格コム</font>をキーワード検索します。nkfコマンドによる％エンコードを実装しています |
-
 |2021/02/20| [Lesson5.複数のパラメータを利する](https://kitanotamotsu.github.io/norikae) |
 |<a href="https://user-images.githubusercontent.com/40127279/126855661-db2256c7-bfd3-4c8c-bc3d-3bb1d03bb9df.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126855661-db2256c7-bfd3-4c8c-bc3d-3bb1d03bb9df.png"></a>|<font color=red>ジョルダンの乗り換え案内</font>を検索します。出発駅、到着駅、到着時間という複数のパラメータに対応しています |
 
