@@ -36,61 +36,42 @@
 |<a href="https://user-images.githubusercontent.com/40127279/126867726-a3dc3141-44b1-476e-924a-a9eb8b971833.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126867726-a3dc3141-44b1-476e-924a-a9eb8b971833.png"></a>|お気に入りのURLを保存しておき、好きな時にランダムに表示させるお<font color=red>遊びワークフロー</font>です。randomユーティリティのワードリストを外部ファイルから動的に作成しています。またNotificationに渡すメッセージをArg and Varsでセットしています|
 |2021/03/20| [Lesson14.RSSやHTMLをパースする/出力する一覧をコントロールする](https://kitanotamotsu.github.io/rssmania) |
 |<a href="https://user-images.githubusercontent.com/40127279/126859172-605ef5f8-5826-44a4-a1ce-50f9db25e380.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126859172-605ef5f8-5826-44a4-a1ce-50f9db25e380.png"></a>|多数のRSSをAlfredに出力するおもちゃ、その名も<font color=red>RSSマニア</font>です。パラメータの文字数で記事一覧のページ替えをコントロールしています。Alfredのインクリメンタルサーチと紐づいて、いろいろと応用が効く使い方だと思います |
-
 |2021/03/21| [Lesson15.Arg and Varsオブジェクトの変数を動的にセットする](https://kitanotamotsu.github.io/sourceviewer) |
-| |RSSやHTMLのソースを表示させるツール<font color=red>『ソースビュー』</font>です。ソースはテキストファイルとして保管します。その際、ファイル名に使う日時をArg and Varsオブジェクトで設定しています|
-
+|<a href="https://user-images.githubusercontent.com/40127279/127756168-8158e17f-0cc9-4864-a9b5-d46e695866aa.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756168-8158e17f-0cc9-4864-a9b5-d46e695866aa.png"></a>|RSSやHTMLのソースを表示させるツール<font color=red>『ソースビュー』</font>です。ソースはテキストファイルとして保管します。その際、ファイル名に使う日時をArg and Varsオブジェクトで設定しています|
 |2021/03/21| [Lesson16.出力フォーマットへランダムにセットする](https://kitanotamotsu.github.io/trivia) |
-| |伝説の雑学番組<font color=red>トリビアの泉</font>の雑学をランダムに表示します。ツールではインターネットアクセスしていませんが、元ネタはこちらhttps://www.noncky.net/trivia/ |
-
-
+|<a href="https://user-images.githubusercontent.com/40127279/127756311-07b24635-6885-44ee-a2e1-6015f9a60058.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756311-07b24635-6885-44ee-a2e1-6015f9a60058.png"></a>|伝説の雑学番組<font color=red>トリビアの泉</font>の雑学をランダムに表示します。ツールではインターネットアクセスしていませんが、元ネタはこちらhttps://www.noncky.net/trivia/ |
 |2021/03/28| [Lesson17.Alfred環境変数を使ってカスタマイズ設定を可能とする](https://kitanotamotsu.github.io/nazonazo) |
-| |なぞなぞを出題するお遊びワークフローです。1度に出題する問題数や、出題したなぞなぞを保存する場所をカスタマイズできます。なぞなぞサイト<font color=red>『なぞQ.com』</font>からの出題です|
-
+|<a href="https://user-images.githubusercontent.com/40127279/127756311-07b24635-6885-44ee-a2e1-6015f9a60058.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756311-07b24635-6885-44ee-a2e1-6015f9a60058.png"></a>|なぞなぞを出題するお遊びワークフローです。1度に出題する問題数や、出題したなぞなぞを保存する場所をカスタマイズできます。なぞなぞサイト<font color=red>『なぞQ.com』</font>からの出題です|
 |2021/04/04| [Lesson18.別のワークフローを呼び出す](https://kitanotamotsu.github.io/tv) |
-| |Lesson10で<font color=red>NatureRemo</font>のAPを使ってTVを操作するワークフローを作成しましたが。今回はその入口にTV番組表を追加しました |
-
+|<a href="https://user-images.githubusercontent.com/40127279/126859172-605ef5f8-5826-44a4-a1ce-50f9db25e380.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126859172-605ef5f8-5826-44a4-a1ce-50f9db25e380.png"></a>|Lesson10で<font color=red>NatureRemo</font>のAPを使ってTVを操作するワークフローを作成しましたが。今回はその入口にTV番組表を追加しました |
 |2021/04/11| [Lesson19.ホットキーツールを作成する／後続フローを二股にする](https://kitanotamotsu.github.io/quickterminal) |
-| |選択しているテキストによってURLをOPENしたり、。TERMINALで実行したり、ブラウザで検索したりします。勝手に<font color=red>『クイックターミナル』</font>と名付けました。Hotkey起動時の選択テキストの連携や、Colditionalオブジェクトのgrep判定の機能をつかいます。ターミナルでの実行とクリップボードへのコピーは後続フローを二股にして非同期に処理しています |
-
+|<a href="https://user-images.githubusercontent.com/40127279/127756499-9981be1f-809f-4a91-a3e9-c5545eaaa0da.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756499-9981be1f-809f-4a91-a3e9-c5545eaaa0da.png"></a>|選択しているテキストによってURLをOPENしたり、。TERMINALで実行したり、ブラウザで検索したりします。勝手に<font color=red>『クイックターミナル』</font>と名付けました。Hotkey起動時の選択テキストの連携や、Colditionalオブジェクトのgrep判定の機能をつかいます。ターミナルでの実行とクリップボードへのコピーは後続フローを二股にして非同期に処理しています |
 |2021/04/17| [Lesson20.テキストファイルを行ごとに配列に読み込む](https://kitanotamotsu.github.io/meigen) |
-| |ネットサーフィンなどでみつけた名言を保存するツール<font color=red>『自分で集める名言集』</font>です。Alfredの機能ではないですが、テキストファイルの読み書きの小技を使っています。1行目に書き出したり、行単位に配列に読み込んだりしています |
-
+|<a href="https://user-images.githubusercontent.com/40127279/127756559-c55c4092-a02f-4505-b4ba-6aa495be6b12.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756559-c55c4092-a02f-4505-b4ba-6aa495be6b12.png"></a>|ネットサーフィンなどでみつけた名言を保存するツール<font color=red>『自分で集める名言集』</font>です。Alfredの機能ではないですが、テキストファイルの読み書きの小技を使っています。1行目に書き出したり、行単位に配列に読み込んだりしています |
 |2021/04/24| [Lesson21.『アレクサ、うんちく教えて』をワークフローにする](https://kitanotamotsu.github.io/unchiku) |
-| |お遊びで、<font color=red>アレクサ</font>の真似をしてみました。『うんちく教えて』でも、『雑学教えて』でも、『豆知識教えて』でも起動するマルチキーワード構造です |
-
+|<a href="https://user-images.githubusercontent.com/40127279/127756657-844234f8-22e1-4109-9f9b-44d84bb8a50f.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756657-844234f8-22e1-4109-9f9b-44d84bb8a50f.png"></a>|お遊びで、<font color=red>アレクサ</font>の真似をしてみました。『うんちく教えて』でも、『雑学教えて』でも、『豆知識教えて』でも起動するマルチキーワード構造です |
 |2021/05/01| [Lesson22.スクリプトフィルターとキーワードをハイブリッドにする](https://kitanotamotsu.github.io/aircon) |
-| |<font color=red>NatureRemo</font>のAPIを利用してエアコンを操作します。Lesson10と18でテレビを操作しましたが、今回はエアコンです。室温や湿度を確認できます|
-
+|<a href="https://user-images.githubusercontent.com/40127279/127756738-3b43bea3-7326-4bd3-854b-d02487b4e58b.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756738-3b43bea3-7326-4bd3-854b-d02487b4e58b.png"></a>|<font color=red>NatureRemo</font>のAPIを利用してエアコンを操作します。Lesson10と18でテレビを操作しましたが、今回はエアコンです。室温や湿度を確認できます|
 |2021/05/08| [Lesson23.スクリプトフィルターをワークフローの途中で使う](https://kitanotamotsu.github.io/ameba) |
-| |ランダムに<font color=red>amebaブログ</font>のRSSを読み込んで記事一覧を表示させます。Lesson14のRSSマニア等の変形です。スクリプトフィルターがワークフローの途中でも利用できることがわかったのでまた用途が広がりますね|
-
+|<a href="https://user-images.githubusercontent.com/40127279/127756932-1f627195-1442-46ef-bf3d-27d4a9bbcf2b.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756932-1f627195-1442-46ef-bf3d-27d4a9bbcf2b.png"></a>|ランダムに<font color=red>amebaブログ</font>のRSSを読み込んで記事一覧を表示させます。Lesson14のRSSマニア等の変形です。スクリプトフィルターがワークフローの途中でも利用できることがわかったのでまた用途が広がりますね|
 |2021/05/16| [Lesson24.Alfredの出力を10件以上に設定する／濁音・半濁音検索に対応する](https://kitanotamotsu.github.io/recipe) |
-| |NHKレシピサイト<font color=red>『きょうのみんなの料理』</font>の検索結果を表示させています。また、作成中に判明した、濁音・半濁音を含む検索にも対応しています |
-
+|<a href="https://user-images.githubusercontent.com/40127279/127757111-9c75bb4a-e944-4dfc-b251-c661a00f7122.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757111-9c75bb4a-e944-4dfc-b251-c661a00f7122.png"></a>|NHKレシピサイト<font color=red>『きょうのみんなの料理』</font>の検索結果を表示させています。また、作成中に判明した、濁音・半濁音を含む検索にも対応しています |
 |2021/05/22| [Lesson25.スニペット起動を使ってみる](https://kitanotamotsu.github.io/now) |
-| |ワークフローのトリガーにスニペットがあったので気になって使ってみました。スクリプトフィルターとあわせて引数を受け取る機能を実装しています。スニペットのキーワード『.now』で<font color=red>整形した日時のバリエーション</font>を表示します|
-
+|<a href="https://user-images.githubusercontent.com/40127279/127757168-373aefbc-774f-45c8-ad0c-876a60a02db5.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757168-373aefbc-774f-45c8-ad0c-876a60a02db5.png"></a>|ワークフローのトリガーにスニペットがあったので気になって使ってみました。スクリプトフィルターとあわせて引数を受け取る機能を実装しています。スニペットのキーワード『.now』で<font color=red>整形した日時のバリエーション</font>を表示します|
 |2021/05/29| [Lesson26.四字熟語であそんでみる](https://kitanotamotsu.github.io/4ji) |
-| |今回はレッスンとして目新しいものはないです。。。難読四字熟語をランダムに表示します。元ネタは、<font color=red>『Yattoke! - 小･中学生の学習サイト』の難読四字熟語一覧</font>です。暇つぶしにどうぞ|
-
+|<a href="https://user-images.githubusercontent.com/40127279/127757593-1d2e5973-0fa3-461a-a40c-50384ba07e9d.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757593-1d2e5973-0fa3-461a-a40c-50384ba07e9d.png"></a>|今回はレッスンとして目新しいものはないです。。。難読四字熟語をランダムに表示します。元ネタは、<font color=red>『Yattoke! - 小･中学生の学習サイト』の難読四字熟語一覧</font>です。暇つぶしにどうぞ|
 |2021/06/06| [Lesson27.ワークフローを放置する](https://kitanotamotsu.github.io/sourcecutter) |
-| |conditionalユーティリティで条件を設定するものの一部の条件には後続を描かずに放置する例です。こんな使い方もできるのかなというノリで見てください。題材としては、<font color=red>テキストのn文字目やn行目を検索するツール</font>を作成しています |
-
+|<a href="https://user-images.githubusercontent.com/40127279/127757659-6d253032-6f97-4433-801e-2773f3ef7e72.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757659-6d253032-6f97-4433-801e-2773f3ef7e72.png"></a>|conditionalユーティリティで条件を設定するものの一部の条件には後続を描かずに放置する例です。こんな使い方もできるのかなというノリで見てください。題材としては、<font color=red>テキストのn文字目やn行目を検索するツール</font>を作成しています |
 |2021/06/12| [Lesson28.ワークフローをの分岐を統合する](https://kitanotamotsu.github.io/plant) |
-| |ワークフローで分岐した2つの流れを、ひとつのオブジェクトで受け取ります。Alfredワークフローの柔軟性というか自由度の高さのサンプルです。日本植物生理学会のHP<font color=red>『みんなのひろば』の植物Q&A</font>を検索もしくはランダム表示します |
-
+|<a href="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png"></a>|ワークフローで分岐した2つの流れを、ひとつのオブジェクトで受け取ります。Alfredワークフローの柔軟性というか自由度の高さのサンプルです。日本植物生理学会のHP<font color=red>『みんなのひろば』の植物Q&A</font>を検索もしくはランダム表示します |
 |2021/06/19| [Lesson29.Alfredのファイルアクションを使ってみる](https://kitanotamotsu.github.io/fileaction) |
 | |タイトルの通りAlfredのファイルアクションのワークフローです。Alfredはファイルオペレーションをサポートしていてワークフローなしでも便利に使えます。機能としては、画像ファイルを<font color=red>LuminarAI</font>で開くという単純なものです|
-
 |2021/06/27| [Lesson30.GitHubのHPを作ってみる](https://kitanotamotsu.github.io/waza) |
-| |Alfredのレッスンとして目新しいものはないです。。。題材は、裏技サイトをパースして、3アイテムをランダムに表示させています。トップページ以外もGitHubで作ってみました。サイトデザインをテーマから選んでmdファイルを置くだけでできそうですね。ダウンロードをリリースとして管理する方が良さそうです。以前のレッスンも徐々に修正していきます。|
-
+|<a href="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png"></a>|Alfredのレッスンとして目新しいものはないです。。。題材は、裏技サイトをパースして、3アイテムをランダムに表示させています。トップページ以外もGitHubで作ってみました。サイトデザインをテーマから選んでmdファイルを置くだけでできそうですね。ダウンロードをリリースとして管理する方が良さそうです。以前のレッスンも徐々に修正していきます。|
 |2021/07/04| [Lesson31.NatureRemoでダイソン空気清浄機を使う](https://kitanotamotsu.github.io/dyson) |
-| |Alfredのレッスンとして目新しいものはないです。。。NatureRemoとの連携の第3作目となります。今回はダイソン空気清浄機。ダイソン謹製のスマホアプリもあるのですが、キーボード操作ができるAlfredで実装してみました|
-
+|<a href="https://user-images.githubusercontent.com/40127279/127757986-ab910290-6835-4ddf-bc12-3cbb324bb8d3.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757986-ab910290-6835-4ddf-bc12-3cbb324bb8d3.png"></a>|Alfredのレッスンとして目新しいものはないです。。。NatureRemoとの連携の第3作目となります。今回はダイソン空気清浄機。ダイソン謹製のスマホアプリもあるのですが、キーボード操作ができるAlfredで実装してみました|
 |2021/07/11| [Lesson32.ListFilterを使ってみる](https://kitanotamotsu.github.io/noet) |
-| |ListFilterのサンプルです。ScriptFilterと組み合わせて使っています。よろず投稿サイトの<font color=red>Note.com</font>をキーワード検索したり。人気タグやカテゴリーからアクセスしたりしています |
+|<a href="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"></a>|ListFilterのサンプルです。ScriptFilterと組み合わせて使っています。よろず投稿サイトの<font color=red>Note.com</font>をキーワード検索したり。人気タグやカテゴリーからアクセスしたりしています |
 <br>
 <br>
 <br>
