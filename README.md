@@ -77,12 +77,12 @@
 <br>
 ## Tips
 ワークフロー作成時のもろもろです
-<br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://github.com/KitanoTamotsu/tips1/) 
-<br>2021-02-14 [Tips2.ワークフロー用透過アイコンの作成方法](https://github.com/KitanoTamotsu/tips2/) 
-<br>2021-02-20 [Tips3.Google suggest ワークフローを解析してみる](https://github.com/KitanoTamotsu/tips3/) 
-<br>2021-03-13 [Tips4.<font color=red>Mighty Optical Illusion</font> のおまかせページを翻訳する](https://github.com/KitanoTamotsu/tips4/) 
-<br>2021-04-04 [Tips5.デスクトップ操作を録画する方法](https://github.com/KitanoTamotsu/tips5/)
-<br>2021-04-04 [Tips6.シェルスクリプトをbashからzshに変更する](https://github.com/KitanoTamotsu/tips6/)
+<br>2021-02-14 [Tips1.alfredworkflowファイルの作成方法](https://kitanotamotsu.github.io/tips1/) 
+<br>2021-02-14 [Tips2.ワークフロー用透過アイコンの作成方法](https://kitanotamotsu.github.io/tips2/) 
+<br>2021-02-20 [Tips3.Google suggest ワークフローを解析してみる](https://kitanotamotsu.github.io/tips3/) 
+<br>2021-03-13 [Tips4.<font color=red>Mighty Optical Illusion</font> のおまかせページを翻訳する](https://kitanotamotsu.github.io/tips4/) 
+<br>2021-04-04 [Tips5.デスクトップ操作を録画する方法](https://kitanotamotsu.github.io/tips5/)
+<br>2021-04-04 [Tips6.シェルスクリプトをbashからzshに変更する](https://kitanotamotsu.github.io/tips6/)
 <br>
 ## 環境
 2021年2月〜　Macbook Air (M1,2020)　OSX 11.1 (BigSur)　Alfred4 & Powerpack
