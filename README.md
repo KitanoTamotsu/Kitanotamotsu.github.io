@@ -69,7 +69,7 @@
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/127757986-ab910290-6835-4ddf-bc12-3cbb324bb8d3.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127757986-ab910290-6835-4ddf-bc12-3cbb324bb8d3.png"></a>|Alfredのレッスンとして目新しいものはないです。。。題材は、裏技サイトをパースして、3アイテムをランダムに表示させています。トップページ以外もGitHubで作ってみました。サイトデザインをテーマから選んでmdファイルを置くだけでできそうですね。ダウンロードをリリースとして管理する方が良さそうです。以前のレッスンも徐々に修正していきます。|
 |2021/07/04| [Lesson31.NatureRemoでダイソン空気清浄機を使う](https://kitanotamotsu.github.io/dyson) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/127758072-3f8e398d-e1a1-4c53-b16f-320183d1dfc6.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127758072-3f8e398d-e1a1-4c53-b16f-320183d1dfc6.png"></a>|Alfredのレッスンとして目新しいものはないです。。。NatureRemoとの連携の第3作目となります。今回はダイソン空気清浄機。ダイソン謹製のスマホアプリもあるのですが、キーボード操作ができるAlfredで実装してみました|
-|2021/07/11| [Lesson32.ListFilterを使ってみる](https://kitanotamotsu.github.io/noet) |
+|2021/07/11| [Lesson32.ListFilterを使ってみる](https://kitanotamotsu.github.io/note) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"></a>|ListFilterのサンプルです。ScriptFilterと組み合わせて使っています。よろず投稿サイトの<font color=red>Note.com</font>をキーワード検索したり。人気タグやカテゴリーからアクセスしたりしています |
 
 <br>
