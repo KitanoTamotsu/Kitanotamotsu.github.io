@@ -70,7 +70,9 @@
 |2021/07/04| [Lesson31.NatureRemoでダイソン空気清浄機を使う](https://kitanotamotsu.github.io/dyson) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/127758072-3f8e398d-e1a1-4c53-b16f-320183d1dfc6.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127758072-3f8e398d-e1a1-4c53-b16f-320183d1dfc6.png"></a>|Alfredのレッスンとして目新しいものはないです。。。NatureRemoとの連携の第3作目となります。今回はダイソン空気清浄機。ダイソン謹製のスマホアプリもあるのですが、キーボード操作ができるAlfredで実装してみました|
 |2021/07/11| [Lesson32.ListFilterを使ってみる](https://kitanotamotsu.github.io/note) |
-|<a target="wf" href="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"></a>|ListFilterのサンプルです。ScriptFilterと組み合わせて使っています。よろず投稿サイトの<font color=red>Note.com</font>をキーワード検索したり。人気タグやカテゴリーからアクセスしたりしています |
+|<a target="wf" href="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"></a>|ListFilterのサンプルです。ScriptFilterと組み合わせて使っています。よろず投稿サイトの<font color=red>Note.com</font>をキーワード検索したり、人気タグやカテゴリーからアクセスしたりしています |
+|2021/09/25| [Lesson33.スクリプトフィルターを2段階で使う](https://kitanotamotsu.github.io/gakusha) |
+|<a target="wf" href="https://user-images.githubusercontent.com/40127279/134764365-86db183b-0c8f-4144-857e-fafa97bc6b25.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/134764365-86db183b-0c8f-4144-857e-fafa97bc6b25.png"></a>|ScriptFilterを2段構えで使っています。雑学サイトの<font color=red>Gaku-Sha.com</font>をキーワード検索したり。人気タグやカテゴリーからアクセスしたりしていまランダムに表示させます |
 
 <br>
 <br>
