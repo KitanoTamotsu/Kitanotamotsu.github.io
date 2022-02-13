@@ -73,7 +73,7 @@
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127758117-5a334898-0378-4357-a226-352759adbde7.png"></a>|ListFilterのサンプルです。ScriptFilterと組み合わせて使っています。よろず投稿サイトの<font color=red>Note.com</font>をキーワード検索したり、人気タグやカテゴリーからアクセスしたりしています |
 |2021/09/25| [Lesson33.スクリプトフィルターを2段階で使う](https://kitanotamotsu.github.io/gakusha) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/134764365-86db183b-0c8f-4144-857e-fafa97bc6b25.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/134764365-86db183b-0c8f-4144-857e-fafa97bc6b25.png"></a>|ScriptFilterを2段構えで使っています。雑学サイトの<font color=red>Gaku-Sha.com</font>をランダムに表示させます |
-|2022/02/13| [Lesson34.グーグルサジェストを使う](https://kitanotamotsu.github.io/ooglesuggest2) |
+|2022/02/13| [Lesson34.グーグルサジェストを使う](https://kitanotamotsu.github.io/googlesuggest2) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/153736515-857e3014-bac3-4641-8646-afc05e532dcc.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/153736515-857e3014-bac3-4641-8646-afc05e532dcc.png"></a>|ふたたびのグーグルサジェスト登場です。コア部分をシェルスクリプトで作成しました |
 
 <br>
