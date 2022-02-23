@@ -76,7 +76,7 @@
 |2021/09/25| [Lesson33.スクリプトフィルターを2段階で使う](https://kitanotamotsu.github.io/gakusha) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/134764365-86db183b-0c8f-4144-857e-fafa97bc6b25.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/134764365-86db183b-0c8f-4144-857e-fafa97bc6b25.png"></a>|ScriptFilterを2段構えで使っています。雑学サイトの<font color=red>Gaku-Sha.com</font>をランダムに表示させます |
 |2022/02/13| [Lesson34.グーグルサジェストを使う](https://kitanotamotsu.github.io/googlesuggest2) |
-|<a target="wf" href="https://user-images.githubusercontent.com/40127279/153736515-857e3014-bac3-4641-8646-afc05e532dcc.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/153736515-857e3014-bac3-4641-8646-afc05e532dcc.png"></a>|ふたたびのグーグルサジェスト登場です。コア部分をシェルスクリプトで作成しました |
+|<a target="wf" href="https://user-images.githubusercontent.com/40127279/153736515-857e3014-bac3-4641-8646-afc05e532dcc.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/153736515-857e3014-bac3-4641-8646-afc05e532dcc.png"></a>|ふたたびのグーグルサジェスト登場です。Montereyにしたためか、googlesuggestのphp動かなくなりました。そこでコア部分をシェルスクリプトにして作成してみました |
 |2022/02/23| [Lesson35.今日のクイズを出題する](https://kitanotamotsu.github.io/dailyquiz) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/155270515-f47ca8b1-00d8-4dbc-ab5f-a86f7c28be6c.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/155270515-f47ca8b1-00d8-4dbc-ab5f-a86f7c28be6c.png"></a>|その日にちなんだクイズを出すサイト<font color=red>今日のクイズ</font>からランダムに出題します |
 
