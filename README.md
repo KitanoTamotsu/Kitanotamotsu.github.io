@@ -2,7 +2,7 @@
 <br>私がAlfredやシェルスクリプト初心者なので、皆さんの参考になれば幸いです
 <br>各レッスン(?)の開発メモを残していますので、青字のリンクから飛んでみてください
 <br>また、表のワークフロー画像をクリックで拡大できます
-<br>特に予定していたわけではないですが、一通りのレッスンは完結とします 2021.07.11
+<br>特に予定していたわけではないですが、一通りのレッスンは完結とします(気が向いたら更新します)  2021.07.11
 
 ## Alfred Workflow Examples
 
@@ -25,15 +25,15 @@
 |2021/03/07| [Lesson9.ブラウザからURLを取得する](https://kitanotamotsu.github.io/translate) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/126857141-8dfc15db-5f1c-41a6-8c2a-5abdaa204d69.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126857141-8dfc15db-5f1c-41a6-8c2a-5abdaa204d69.png"></a>|ブラウザで開いているページを翻訳します。コアは<font color=red>google translate</font>です。ブラウザから情報を取得するためシェルスクリプトからappleスクリプトを実行しています。もとはconditionalユーティリティとクリップボードを扱うサンプルとして作ったものです|
 |2021/03/13| [Lesson10.TVのリモコン](https://kitanotamotsu.github.io/natureremo) |
-|<a target="wf" href="https://user-images.githubusercontent.com/40127279/126858838-6207222c-1d9c-45d6-85e1-86e0303f80a9.png"><img width="150"  src="https://user-images.githubusercontent.com/40127279/126858838-6207222c-1d9c-45d6-85e1-86e0303f80a9.png"></a>|AlfredでTVを操作します。コアは<font color=red>NatureRemo</font>のAPIです。エキスポート禁止の変数の使い方のサンプルとなります。『TV ++』という入力でテレビのボリュームを2つ上げることができます。なかなか面白いかも。もちろんスクリプトを改造すれば、TV以外のリモコンにもなりますよ|
+|<a target="wf" href="https://user-images.githubusercontent.com/40127279/126858838-6207222c-1d9c-45d6-85e1-86e0303f80a9.png"><img width="150"  src="https://user-images.githubusercontent.com/40127279/126858838-6207222c-1d9c-45d6-85e1-86e0303f80a9.png"></a>|<font color=green><b>　★おすすめ★　</b></font>AlfredでTVを操作します。コアは<font color=red>NatureRemo</font>のAPIです。エキスポート禁止の変数の使い方のサンプルとなります。『TV ++』という入力でテレビのボリュームを2つ上げることができます。なかなか面白いかも。もちろんスクリプトを改造すれば、TV以外のリモコンにもなりますよ|
 |2021/03/13| [Lesson11.ローカルファイルを利用する](https://kitanotamotsu.github.io/avatar) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/126859618-eabe4143-8516-4786-a969-543967259814.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126859618-eabe4143-8516-4786-a969-543967259814.png"></a>|<font color=red>Joe Schmoe</font>のAPIを利用してアバターを作成します。リターンされるアバター画像からhtmlを生成してローカルに保存します |
 |2021/03/14| [Lesson12.randomユーティリティを使用する](https://kitanotamotsu.github.io/wikipedia) |
-|<a target="wf" href="https://user-images.githubusercontent.com/40127279/126860198-1e1e98b5-af42-42ea-b3b7-4ca9d06ae5a4.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126860198-1e1e98b5-af42-42ea-b3b7-4ca9d06ae5a4.png"></a>|<font color=red>ウィキペディア</font>のおまかせ表示が興味のない記事ばかりという方におすすめ。カテゴリー内の記事をランダムに表示させることができます。つまり自分の興味のあるカテゴリを指定すれば、関心のある記事のランダム表示が可能になるのです。randomユーティリティを利用したコードレスワークフローです|
+|<a target="wf" href="https://user-images.githubusercontent.com/40127279/126860198-1e1e98b5-af42-42ea-b3b7-4ca9d06ae5a4.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126860198-1e1e98b5-af42-42ea-b3b7-4ca9d06ae5a4.png"></a>|<font color=green><b>　★おすすめ★　</b></font><font color=red>ウィキペディア</font>のおまかせ表示が興味のない記事ばかりという方におすすめ。カテゴリー内の記事をランダムに表示させることができます。つまり自分の興味のあるカテゴリを指定すれば、関心のある記事のランダム表示が可能になるのです。randomユーティリティを利用したコードレスワークフローです|
 |2021/03/20| [Lesson13.randomユーティリティの選択肢を動的に設定する](https://kitanotamotsu.github.io/favo) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/126867726-a3dc3141-44b1-476e-924a-a9eb8b971833.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/126867726-a3dc3141-44b1-476e-924a-a9eb8b971833.png"></a>|お気に入りのURLを保存しておき、好きな時にランダムに表示させる<font color=red>お遊びワークフロー</font>です。randomユーティリティのワードリストを外部ファイルから動的に作成しています。またNotificationに渡すメッセージをArg and Varsでセットしています|
 |2021/03/20| [Lesson14.RSSやHTMLをパースする/出力する一覧をコントロールする](https://kitanotamotsu.github.io/rssmania) |
-|<a target="wf" href="https://user-images.githubusercontent.com/40127279/127756010-7b080e13-334b-4881-bdda-f7d2129ca5b8.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756010-7b080e13-334b-4881-bdda-f7d2129ca5b8.png"></a>|多数のRSSをAlfredに出力するおもちゃ、その名も<font color=red>RSSマニア</font>です。パラメータの文字数で記事一覧のページ替えをコントロールしています。Alfredのインクリメンタルサーチと紐づいて、いろいろと応用が効く使い方だと思います |
+|<a target="wf" href="https://user-images.githubusercontent.com/40127279/127756010-7b080e13-334b-4881-bdda-f7d2129ca5b8.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756010-7b080e13-334b-4881-bdda-f7d2129ca5b8.png"></a>|<font color=green><b>　★おすすめ★　</b></font>多数のRSSをAlfredに出力するおもちゃ、その名も<font color=red>RSSマニア</font>です。パラメータの文字数で記事一覧のページ替えをコントロールしています。Alfredのインクリメンタルサーチと紐づいて、いろいろと応用が効く使い方だと思います |
 |2021/03/21| [Lesson15.Arg and Varsオブジェクトの変数を動的にセットする](https://kitanotamotsu.github.io/sourceviewer) |
 |<a target="wf" href="https://user-images.githubusercontent.com/40127279/127756168-8158e17f-0cc9-4864-a9b5-d46e695866aa.png"><img width="150" src="https://user-images.githubusercontent.com/40127279/127756168-8158e17f-0cc9-4864-a9b5-d46e695866aa.png"></a>|RSSやHTMLのソースを表示させるツール<font color=red>『ソースビュー』</font>です。ソースはテキストファイルとして保管します。その際、ファイル名に使う日時をArg and Varsオブジェクトで設定しています|
 |2021/03/21| [Lesson16.出力フォーマットへランダムにセットする](https://kitanotamotsu.github.io/trivia) |
