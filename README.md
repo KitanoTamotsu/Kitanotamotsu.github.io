@@ -95,6 +95,7 @@
 ## 環境
 2021年2月〜　Macbook Air (M1,2020)　OSX 11.1 (BigSur)　Alfred4 & Powerpack
 <br>2022年2月〜　Macbook Air (M1,2020)　OSX 12.1 (Monterey)　Alfred4 & Powerpack
+<br>2022年7月〜　Macbook Air (M1,2020)　OSX 12.1 (Monterey)　Alfred5 & Powerpack
 <br>
 <br>
 <br>
